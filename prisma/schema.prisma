@@ -1,0 +1,520 @@
+// This is your Prisma schema file
+
+generator client {
+  provider = "prisma-client-js"
+  // previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  // pgvector extension commented out for MVP
+  // Can be enabled later when needed for advanced AI features
+  // extensions = [pgvector(map: "vector")]
+}
+
+enum Role {
+  STUDENT
+  CONSULTANT
+  ADMIN
+}
+
+enum ConsultationStatus {
+  NEW
+  IN_PROGRESS
+  COMPLETED
+  DECLINED
+}
+
+enum ChecklistItemStatus {
+  PENDING
+  COMPLETED
+}
+
+enum ChecklistItemCategory {
+  DOCUMENTS
+  ESSAYS
+  APPLICATION
+  FINANCIAL_AID
+  POST_SUBMISSION
+}
+
+enum ProgramType {
+  SUMMER_SCHOOL
+  HACKATHON
+  RESEARCH
+  INTERNSHIP
+}
+
+enum Format {
+  ONLINE
+  OFFLINE
+  HYBRID
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  password      String?
+  emailVerified DateTime?
+  image         String?
+  role          Role      @default(STUDENT)
+  
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  profile           StudentProfile?
+  favorites         FavoriteUniversity[]
+  checklists        Checklist[]
+  consultations     ConsultationRequest[] @relation("StudentConsultations")
+  handledConsultations ConsultationRequest[] @relation("ConsultantConsultations")
+  chatSessions      ChatSession[]
+  fitScores         FitScore[]
+  
+  @@map("users")
+}
+
+model StudentProfile {
+  id     String @id @default(cuid())
+  userId String @unique
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  // Personal Information
+  firstName   String?
+  lastName    String?
+  country     String?
+  city        String?
+  phone       String?
+  avatar      String?
+
+  // Academic Data
+  gpa         Float?
+  satTotal    Int?
+  satMath     Int?
+  satEBRW     Int?
+  actScore    Int?
+  ieltsTotal  Float?
+  toeflTotal  Int?
+  graduationYear Int?
+
+  // Extracurriculars (stored as JSON)
+  extracurriculars Json?  // [{name, description, duration}]
+  achievements     Json?  // [{title, description, date}]
+  volunteerWork    Json?  // [{organization, role, duration}]
+  leadership       Json?  // [{position, organization, duration}]
+
+  // Financial Information
+  maxBudget           Int?
+  needFinancialAid    Boolean @default(false)
+  scholarshipTypes    Json?  // ["merit", "need-based", "full-ride"]
+
+  // Preferences
+  preferredCountries  Json?  // ["USA", "UK", "Canada"]
+  interestedMajors    Json?  // ["Computer Science", "Engineering"]
+  preferredSize       String? // "small" | "medium" | "large"
+  preferredPrograms   Json?  // ["bachelor", "master", "phd"]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("student_profiles")
+}
+
+model University {
+  id String @id @default(cuid())
+
+  // Basic Information
+  nameEn      String
+  nameRu      String?
+  motto       String?
+  country     String
+  city        String
+  address     String?
+  latitude    Float?
+  longitude   Float?
+  logo        String?
+  images      Json?  // ["url1", "url2", ...]
+
+  // Contacts
+  admissionEmail String?
+  admissionPhone String?
+  website        String?
+  admissionPage  String?
+
+  // Academic Information
+  schools         Json?  // [{name, description}]
+  majors          Json?  // [{name, description, link}]
+  hasBachelor     Boolean @default(false)
+  hasMaster       Boolean @default(false)
+  hasPhd          Boolean @default(false)
+  languageOfStudy String @default("English")
+
+  // Admission Requirements
+  minGpa          Float?
+  avgGpa          Float?
+  minSat          Int?
+  avgSat25        Int?
+  avgSat75        Int?
+  minAct          Int?
+  avgAct          Int?
+  minIelts        Float?
+  minToefl        Int?
+
+  // Additional Requirements
+  requiresInterview Boolean @default(false)
+  requiresStatement Boolean @default(false)
+  supplementalEssays Json?  // [{topic, wordCount}]
+  recommendationCount Int @default(0)
+  requiresPortfolio Boolean @default(false)
+  otherRequirements String?
+
+  // Application Systems
+  acceptsCommonApp Boolean @default(false)
+  commonAppLink    String?
+  acceptsCoalition Boolean @default(false)
+  coalitionLink    String?
+  hasOwnSystem     Boolean @default(false)
+  ownSystemLink    String?
+  applicationInstructions String?
+
+  // Financial Information
+  tuitionIntl    Int?  // USD per year
+  roomBoard      Int?  // USD per year
+  otherFees      Int?  // USD per year
+  totalCost      Int?  // Auto-calculated
+
+  requiresCssProfile  Boolean @default(false)
+  hasMeritScholarships Boolean @default(false)
+  meritDescription    String?
+  hasNeedBased        Boolean @default(false)
+  needBasedDescription String?
+  hasFullRide         Boolean @default(false)
+  fullRideDescription String?
+  finAidPercentage    Float?
+  finAidDeadlines     Json?  // [{type, date}]
+
+  // Deadlines
+  earlyActionDate   DateTime?
+  earlyActionBinding Boolean @default(false)
+  edDeadline        DateTime?
+  edDeadlineII      DateTime?
+  regularDeadline   DateTime?
+  hasRolling        Boolean @default(false)
+  rollingPeriod     String?
+  intlDeadlines     Json?  // [{type, date}]
+  scholarshipDeadlines Json?  // [{name, date}]
+
+  // Statistics
+  acceptanceRate      Float?
+  acceptanceRateIntl  Float?
+  avgGpaAdmitted      Float?
+  avgSatAdmitted      Int?
+  avgActAdmitted      Int?
+  yieldRate           Float?
+  totalStudents       Int?
+  intlStudents        Int?
+  intlStudentsPercent Float?
+  studentFacultyRatio String?
+  campusSize          String?
+
+  // Demographics
+  genderRatio         Json?  // {male: 50, female: 50}
+  ethnicDiversity     Json?
+
+  // Career Outcomes
+  employmentRate      Float?
+  avgSalary           Int?
+  topEmployers        Json?  // ["Company1", "Company2"]
+
+  // Rankings
+  qsRanking          Int?
+  qsYear             Int?
+  usNewsRanking      Int?
+  usNewsYear         Int?
+  theRanking         Int?
+  theYear            Int?
+  nicheGrade         String?
+  rankingSources     Json?
+
+  // Opportunities & Programs
+  summerPrograms     Json?  // [{name, description, dates, cost, deadline, link}]
+  hackathons         Json?
+  researchPrograms   Json?
+  internshipPrograms Json?
+  exchangePrograms   Json?
+
+  // Local Information (CIS/Kyrgyzstan)
+  hasLocalOffice     Boolean @default(false)
+  localOfficeAddress String?
+  localOfficeContacts Json?
+  localGrants        Json?
+  alumniContacts     Json?
+
+  // Additional Content
+  faq              String?
+  virtualTours     Json?  // ["url1", "url2"]
+  videos           Json?
+  studentLifeDescription String?
+
+  // AI Embeddings for RAG (commented out for MVP)
+  // embedding Unsupported("vector(1536)")?
+  // To enable: install pgvector extension in your database
+  // Then uncomment this line and the extensions line above
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  favorites      FavoriteUniversity[]
+  checklists     Checklist[]
+  successStories SuccessStory[]
+  fitScores      FitScore[]
+
+  @@map("universities")
+  @@index([country])
+  @@index([city])
+  @@index([minGpa])
+  @@index([qsRanking])
+}
+
+model FavoriteUniversity {
+  id           String @id @default(cuid())
+  userId       String
+  universityId String
+
+  user       User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  university University @relation(fields: [universityId], references: [id], onDelete: Cascade)
+
+  createdAt DateTime @default(now())
+
+  @@unique([userId, universityId])
+  @@map("favorite_universities")
+}
+
+model Checklist {
+  id           String @id @default(cuid())
+  userId       String
+  universityId String
+
+  user       User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  university University @relation(fields: [universityId], references: [id], onDelete: Cascade)
+
+  items ChecklistItem[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, universityId])
+  @@map("checklists")
+}
+
+model ChecklistItem {
+  id          String @id @default(cuid())
+  checklistId String
+  checklist   Checklist @relation(fields: [checklistId], references: [id], onDelete: Cascade)
+
+  title       String
+  description String?
+  category    ChecklistItemCategory
+  status      ChecklistItemStatus @default(PENDING)
+  deadline    DateTime?
+  order       Int
+  isCustom    Boolean @default(false)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("checklist_items")
+  @@index([checklistId])
+}
+
+model ConsultationRequest {
+  id        String @id @default(cuid())
+  userId    String
+  consultantId String?
+
+  user       User  @relation("StudentConsultations", fields: [userId], references: [id], onDelete: Cascade)
+  consultant User? @relation("ConsultantConsultations", fields: [consultantId], references: [id])
+
+  topic            String
+  message          String
+  preferredFormat  String  // "office" | "online"
+  preferredDate    DateTime?
+  status           ConsultationStatus @default(NEW)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("consultation_requests")
+  @@index([userId])
+  @@index([consultantId])
+}
+
+model SuccessStory {
+  id           String @id @default(cuid())
+  universityId String
+  university   University @relation(fields: [universityId], references: [id], onDelete: Cascade)
+
+  // Student Information
+  studentName  String  // Can be "Anonymous Student"
+  studentPhoto String?
+  major        String
+  admissionYear Int
+  originCountry String
+
+  // Academic Data
+  gpa         Float?
+  satScore    Int?
+  actScore    Int?
+  ieltsScore  Float?
+  toeflScore  Int?
+
+  // Extracurriculars
+  extracurriculars Json?  // [{name, description}]
+  achievements     Json?
+
+  // Materials
+  commonAppEssay  String?  // Full text
+  supplementals   Json?    // [{prompt, essay}]
+  hasCV           Boolean @default(false)
+  cvUrl           String?
+
+  // Results
+  accepted        Boolean @default(true)
+  finAidReceived  Int?  // USD
+  testimonial     String?
+
+  // Moderation
+  isPublished Boolean @default(false)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("success_stories")
+  @@index([universityId])
+  @@index([originCountry])
+}
+
+model Program {
+  id String @id @default(cuid())
+
+  name        String
+  organizer   String
+  type        ProgramType
+  description String
+  country     String
+  city        String
+  format      Format
+
+  // Dates
+  startDate  DateTime
+  endDate    DateTime
+  deadline   DateTime
+
+  // Requirements
+  ageMin       Int?
+  ageMax       Int?
+  requirements Json?  // {english: "B2", gpa: 3.0, skills: [...]}
+
+  // Financial
+  cost         Int?  // USD, 0 for free
+  scholarships Json?  // [{name, amount, criteria}]
+
+  // Content
+  curriculum      String?
+  instructors     Json?
+  previousProjects Json?
+  prizes          Json?  // For hackathons
+  certificate     Boolean @default(false)
+
+  // Links
+  website         String?
+  applicationLink String?
+  contactEmail    String?
+  socialMedia     Json?
+
+  // Reviews
+  reviews Json?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("programs")
+  @@index([type])
+  @@index([country])
+  @@index([deadline])
+}
+
+model Guide {
+  id String @id @default(cuid())
+
+  title       String
+  slug        String @unique
+  category    String
+  content     String  // Rich text/HTML
+  excerpt     String?
+  coverImage  String?
+  tags        Json?  // ["common-app", "essays", "financial-aid"]
+
+  isPublished Boolean @default(false)
+  views       Int @default(0)
+  likes       Int @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("guides")
+  @@index([slug])
+  @@index([category])
+}
+
+model ChatSession {
+  id     String @id @default(cuid())
+  userId String
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  title    String?
+  messages Json  // [{role: "user" | "assistant", content: string, timestamp: DateTime}]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("chat_sessions")
+  @@index([userId])
+}
+
+model FitScore {
+  id           String @id @default(cuid())
+  userId       String
+  universityId String
+
+  user       User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  university University @relation(fields: [universityId], references: [id], onDelete: Cascade)
+
+  score       Int  // 0-100
+  breakdown   Json  // {academic: 85, extracurricular: 70, financial: 60}
+  explanation Json  // {strengths: [...], improvements: [...], recommendations: [...]}
+  category    String  // "reach" | "target" | "safety"
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, universityId])
+  @@map("fit_scores")
+  @@index([userId])
+  @@index([universityId])
+}
+
+
+
+model SiteConfig {
+  id           String   @id @default(cuid())
+  siteName     String   @default("Bilim Bridge")
+  supportEmail String   @default("support@bilimbridge.com")
+  phoneNumber  String   @default("+996 XXX XXX XXX")
+  address      String   @default("Bishkek, Kyrgyzstan")
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
