@@ -37,10 +37,10 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     }
   }
 
-  const value = {
+  const value: LanguageContextType = {
     language,
     setLanguage,
-    t: translations[language],
+    t: translations[language] as Translations,
   }
 
   return (

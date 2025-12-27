@@ -376,9 +376,22 @@ export const translations = {
         phd: 'PhD',
       },
       summerSchool: 'Summer School',
+      hackathon: 'Hackathon',
+      research: 'Research',
+      internship: 'Internship',
+      all: 'All',
+      loading: 'Loading programs...',
+      noResults: 'No programs found',
+      deadlineSoon: 'Deadline soon!',
+      by: 'by',
+      program: 'Program',
+      deadline: 'Deadline',
+      days: '({days} days left)',
+      free: 'Free',
+      details: 'Details',
+      apply: 'Apply',
       viewDetails: 'View Program',
       applyNow: 'Apply Now',
-      deadline: 'Deadline',
       tuition: 'Tuition',
       duration: 'Duration',
     },
@@ -816,9 +829,22 @@ export const translations = {
         phd: 'Докторантура',
       },
       summerSchool: 'Летняя Школа',
+      hackathon: 'Хакатон',
+      research: 'Исследование',
+      internship: 'Стажировка',
+      all: 'Все',
+      loading: 'Загрузка программ...',
+      noResults: 'Программы не найдены',
+      deadlineSoon: 'Дедлайн скоро!',
+      by: 'от',
+      program: 'Программа',
+      deadline: 'Дедлайн',
+      days: '({days} дней осталось)',
+      free: 'Бесплатно',
+      details: 'Подробнее',
+      apply: 'Подать заявку',
       viewDetails: 'Подробнее',
       applyNow: 'Подать Заявку',
-      deadline: 'Дедлайн',
       tuition: 'Стоимость',
       duration: 'Длительность',
     },
@@ -884,5 +910,10 @@ export const translations = {
   },
 } as const
 
-export type Translations = typeof translations.en
+// Используем структурный тип вместо литерального для совместимости между языками
+type DeepReadonly<T> = {
+  readonly [P in keyof T]: T[P] extends object ? DeepReadonly<T[P]> : T[P]
+}
+
+export type Translations = DeepReadonly<typeof translations.en>
 

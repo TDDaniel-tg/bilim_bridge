@@ -68,13 +68,13 @@ export default function UniversityMap({ universities }: UniversityMapProps) {
 
     // Создать новые маркеры
     const markers: L.Marker[] = []
-    const bounds: L.LatLngExpression[] = []
+    const bounds: L.LatLngTuple[] = []
 
     universities.forEach(uni => {
       if (!uni.latitude || !uni.longitude) return
 
       const marker = L.marker([uni.latitude, uni.longitude])
-      
+
       // Popup с информацией
       const popupContent = `
         <div class="p-2 min-w-[200px]">
@@ -121,8 +121,8 @@ export default function UniversityMap({ universities }: UniversityMapProps) {
   }, [universities])
 
   return (
-    <div 
-      ref={mapContainerRef} 
+    <div
+      ref={mapContainerRef}
       className="w-full h-[600px] rounded-lg overflow-hidden"
       style={{ zIndex: 0 }}
     />

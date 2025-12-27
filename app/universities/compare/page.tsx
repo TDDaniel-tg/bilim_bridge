@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useState } from "react"
+import { useEffect, useState, Suspense } from "react"
 import { useSearchParams } from "next/navigation"
 import Image from "next/image"
 import Link from "next/link"
@@ -9,6 +9,21 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { X, Download, Share2, Plus } from "lucide-react"
 import { formatCurrency } from "@/lib/utils"
+
+// Обёртка для Suspense
+export default function ComparePage() {
+  return (
+    <Suspense fallback={
+      <div className="container mx-auto px-4 py-12 text-center">
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary mx-auto"></div>
+        <p className="mt-4 text-muted-foreground">Loading comparison...</p>
+      </div>
+    }>
+      <CompareContent />
+    </Suspense>
+  )
+}
+
 
 interface University {
   id: string
@@ -41,7 +56,7 @@ interface University {
   acceptsCommonApp?: boolean
 }
 
-export default function ComparePage() {
+function CompareContent() {
   const searchParams = useSearchParams()
   const [universities, setUniversities] = useState<University[]>([])
   const [loading, setLoading] = useState(true)
@@ -57,7 +72,7 @@ export default function ComparePage() {
 
   const fetchUniversities = async (ids: string[]) => {
     try {
-      const promises = ids.map(id => 
+      const promises = ids.map(id =>
         fetch(`/api/universities/${id}`).then(res => res.json())
       )
       const data = await Promise.all(promises)
@@ -72,7 +87,7 @@ export default function ComparePage() {
   const removeUniversity = (id: string) => {
     const newUniversities = universities.filter(u => u.id !== id)
     setUniversities(newUniversities)
-    
+
     // Update URL
     const newIds = newUniversities.map(u => u.id).join(',')
     window.history.pushState({}, '', `/universities/compare?ids=${newIds}`)
@@ -260,7 +275,7 @@ export default function ComparePage() {
                 <td className="sticky left-0 bg-background p-4 border-b">SAT Range</td>
                 {universities.map((uni) => (
                   <td key={uni.id} className="p-4 border-b text-center">
-                    {uni.avgSat25 && uni.avgSat75 
+                    {uni.avgSat25 && uni.avgSat75
                       ? `${uni.avgSat25} - ${uni.avgSat75}`
                       : '-'
                     }
@@ -394,7 +409,7 @@ export default function ComparePage() {
                 <td className="sticky left-0 bg-background p-4 border-b">Regular Deadline</td>
                 {universities.map((uni) => (
                   <td key={uni.id} className="p-4 border-b text-center">
-                    {uni.regularDeadline 
+                    {uni.regularDeadline
                       ? new Date(uni.regularDeadline).toLocaleDateString()
                       : '-'
                     }

@@ -25,8 +25,8 @@ interface University {
   nameEn: string
   country: string
   city: string
-  latitude?: number
-  longitude?: number
+  latitude: number
+  longitude: number
   logo?: string
   qsRanking?: number
   acceptanceRate?: number
@@ -67,7 +67,7 @@ export default function UniversityMapPage() {
 
     if (search) {
       const searchLower = search.toLowerCase()
-      filtered = filtered.filter(u => 
+      filtered = filtered.filter(u =>
         u.nameEn.toLowerCase().includes(searchLower) ||
         u.city.toLowerCase().includes(searchLower) ||
         u.country.toLowerCase().includes(searchLower)
@@ -89,7 +89,7 @@ export default function UniversityMapPage() {
       <div className="border-b bg-muted/50 py-6">
         <div className="container mx-auto px-4">
           <h1 className="text-3xl font-bold mb-4">University Map</h1>
-          
+
           {/* Filters */}
           <div className="flex flex-col md:flex-row gap-4">
             <div className="flex-1 relative">
