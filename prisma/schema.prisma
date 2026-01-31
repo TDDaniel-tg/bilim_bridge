@@ -52,6 +52,60 @@ enum Format {
   HYBRID
 }
 
+enum USState {
+  AL // Alabama
+  AK // Alaska
+  AZ // Arizona
+  AR // Arkansas
+  CA // California
+  CO // Colorado
+  CT // Connecticut
+  DE // Delaware
+  FL // Florida
+  GA // Georgia
+  HI // Hawaii
+  ID // Idaho
+  IL // Illinois
+  IN // Indiana
+  IA // Iowa
+  KS // Kansas
+  KY // Kentucky
+  LA // Louisiana
+  ME // Maine
+  MD // Maryland
+  MA // Massachusetts
+  MI // Michigan
+  MN // Minnesota
+  MS // Mississippi
+  MO // Missouri
+  MT // Montana
+  NE // Nebraska
+  NV // Nevada
+  NH // New_Hampshire
+  NJ // New_Jersey
+  NM // New_Mexico
+  NY // New_York
+  NC // North_Carolina
+  ND // North_Dakota
+  OH // Ohio
+  OK // Oklahoma
+  OR // Oregon
+  PA // Pennsylvania
+  RI // Rhode_Island
+  SC // South_Carolina
+  SD // South_Dakota
+  TN // Tennessee
+  TX // Texas
+  UT // Utah
+  VT // Vermont
+  VA // Virginia
+  WA // Washington
+  WV // West_Virginia
+  WI // Wisconsin
+  WY // Wyoming
+  DC // District_of_Columbia
+}
+
 model User {
   id            String    @id @default(cuid())
   email         String    @unique
@@ -125,16 +179,20 @@ model University {
   id String @id @default(cuid())
 
   // Basic Information
-  nameEn      String
-  nameRu      String?
-  motto       String?
-  country     String
-  city        String
-  address     String?
-  latitude    Float?
-  longitude   Float?
-  logo        String?
-  images      Json?  // ["url1", "url2", ...]
+  nameEn          String
+  nameRu          String?
+  motto           String?
+  yearEstablished Int?              // Year university was founded
+  country         String
+  city            String
+  usState         USState?          // US state (only for US universities)
+  address         String?
+  latitude        Float?
+  longitude       Float?
+  mapEmbedUrl     String?           // Google Maps embed URL
+  logo            String?
+  images          Json?             // ["url1", "url2", ...]
+  campusPhotos    Json?             // [{url, caption, isPrimary, uploadedAt}]
 
   // Contacts
   admissionEmail String?
@@ -162,12 +220,14 @@ model University {
   minToefl        Int?
 
   // Additional Requirements
-  requiresInterview Boolean @default(false)
-  requiresStatement Boolean @default(false)
-  supplementalEssays Json?  // [{topic, wordCount}]
-  recommendationCount Int @default(0)
-  requiresPortfolio Boolean @default(false)
-  otherRequirements String?
+  requiresInterview     Boolean @default(false)
+  requiresStatement     Boolean @default(false)
+  hasSupplementalEssays Boolean @default(false)
+  essayPrompts          Json?   // [{prompt, wordLimit, isRequired}]
+  supplementalEssays    Json?   // Legacy field: [{topic, wordCount}]
+  recommendationCount   Int @default(0)
+  requiresPortfolio     Boolean @default(false)
+  otherRequirements     String?
 
   // Application Systems
   acceptsCommonApp Boolean @default(false)
@@ -184,15 +244,29 @@ model University {
   otherFees      Int?  // USD per year
   totalCost      Int?  // Auto-calculated
 
-  requiresCssProfile  Boolean @default(false)
-  hasMeritScholarships Boolean @default(false)
-  meritDescription    String?
-  hasNeedBased        Boolean @default(false)
-  needBasedDescription String?
-  hasFullRide         Boolean @default(false)
-  fullRideDescription String?
-  finAidPercentage    Float?
-  finAidDeadlines     Json?  // [{type, date}]
+  // Scholarships & Financial Aid (Enhanced)
+  requiresCssProfile      Boolean @default(false)
+  
+  // Merit-based Scholarships
+  hasMeritScholarships    Boolean @default(false)
+  meritDescription        String?           // Rich text: description
+  meritCriteria           String?           // Rich text: eligibility criteria
+  meritAvgAmount          Int?              // Average merit scholarship in USD
+  meritMaxAmount          Int?              // Maximum merit scholarship in USD
+  
+  // Need-based Financial Aid
+  hasNeedBased            Boolean @default(false)
+  needBasedDescription    String?           // Rich text: description
+  needBasedIntl           Boolean @default(false)  // Available for international students
+  needBasedAvgAmount      Int?              // Average need-based aid in USD
+  
+  // Full-ride Scholarships
+  hasFullRide             Boolean @default(false)
+  fullRideDescription     String?           // Rich text: description
+  fullRidePrograms        Json?             // [{name, criteria, deadline}]
+  
+  finAidPercentage        Float?
+  finAidDeadlines         Json?             // [{type, date}]
 
   // Deadlines
   earlyActionDate   DateTime?
@@ -227,13 +301,16 @@ model University {
   avgSalary           Int?
   topEmployers        Json?  // ["Company1", "Company2"]
 
-  // Rankings
+  // Rankings (Enhanced)
   qsRanking          Int?
   qsYear             Int?
   usNewsRanking      Int?
   usNewsYear         Int?
   theRanking         Int?
   theYear            Int?
+  arwuRanking        Int?              // Academic Ranking of World Universities
+  arwuYear           Int?
+  customRankings     Json?             // [{name, position, year}]
   nicheGrade         String?
   rankingSources     Json?
 
