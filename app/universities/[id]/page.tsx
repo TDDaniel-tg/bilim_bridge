@@ -12,6 +12,8 @@ import {
 } from "lucide-react"
 import { formatCurrency, formatDate } from "@/lib/utils"
 import { useLanguage } from "@/lib/contexts/language-context"
+import { TestRequirementsCard } from "@/components/universities/test-requirements-card"
+import { ScholarshipInfoCard } from "@/components/universities/scholarship-info-card"
 
 export default function UniversityDetailPage() {
   const params = useParams()
@@ -134,8 +136,8 @@ export default function UniversityDetailPage() {
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
                 className={`py-4 px-2 border-b-2 transition-colors whitespace-nowrap ${activeTab === tab.id
-                    ? 'border-primary text-primary font-medium'
-                    : 'border-transparent text-muted-foreground hover:text-foreground'
+                  ? 'border-primary text-primary font-medium'
+                  : 'border-transparent text-muted-foreground hover:text-foreground'
                   }`}
               >
                 {tab.label}
@@ -179,9 +181,35 @@ export default function UniversityDetailPage() {
                         <Badge>#{university.usNewsRanking}</Badge>
                       </div>
                     )}
+                    {university.studentFacultyRatio && (
+                      <div className="flex items-center justify-between">
+                        <span className="text-muted-foreground">Student-Faculty Ratio</span>
+                        <Badge variant="outline">{university.studentFacultyRatio}</Badge>
+                      </div>
+                    )}
                   </CardContent>
                 </Card>
               )}
+
+              {/* Test Requirements Card */}
+              <TestRequirementsCard
+                minToefl={university.minToefl}
+                minIelts={university.minIelts}
+                minSat={university.minSat}
+                minAct={university.minAct}
+                minGpa={university.minGpa}
+              />
+
+              {/* Scholarship Information Card */}
+              <ScholarshipInfoCard
+                hasMeritScholarships={university.hasMeritScholarships}
+                meritDescription={university.meritDescription}
+                hasNeedBased={university.hasNeedBased}
+                needBasedDescription={university.needBasedDescription}
+                needBasedIntl={university.needBasedIntl}
+                hasFullRide={university.hasFullRide}
+                finAidPercentage={university.finAidPercentage}
+              />
             </div>
 
             <div className="space-y-6">
@@ -242,75 +270,103 @@ export default function UniversityDetailPage() {
         )}
 
         {activeTab === 'admissions' && (
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-            <Card>
-              <CardHeader>
-                <CardTitle>{t.universityDetail.admissions.title}</CardTitle>
-              </CardHeader>
-              <CardContent className="space-y-4">
-                {university.minGpa && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">{t.universityDetail.admissions.gpa}</p>
-                    <p className="font-semibold">{university.minGpa.toFixed(2)}</p>
-                  </div>
-                )}
-                {university.avgGpa && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">Average GPA (Admitted)</p>
-                    <p className="font-semibold">{university.avgGpa.toFixed(2)}</p>
-                  </div>
-                )}
-                {(university.avgSat25 && university.avgSat75) && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">SAT Score Range</p>
-                    <p className="font-semibold">{university.avgSat25} - {university.avgSat75}</p>
-                  </div>
-                )}
-                {university.minIelts && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">{t.universityDetail.admissions.ielts}</p>
-                    <p className="font-semibold">{university.minIelts}</p>
-                  </div>
-                )}
-                {university.minToefl && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">{t.universityDetail.admissions.toefl}</p>
-                    <p className="font-semibold">{university.minToefl}</p>
-                  </div>
-                )}
-              </CardContent>
-            </Card>
+          <div className="space-y-6">
+            {/* Test Requirements - Full Width */}
+            <TestRequirementsCard
+              minToefl={university.minToefl}
+              minIelts={university.minIelts}
+              minSat={university.minSat}
+              minAct={university.minAct}
+              minGpa={university.minGpa}
+            />
 
-            <Card>
-              <CardHeader>
-                <CardTitle>{t.universityDetail.admissions.deadlines}</CardTitle>
-              </CardHeader>
-              <CardContent className="space-y-4">
-                {university.earlyActionDate && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">Early Action</p>
-                    <p className="font-semibold">{formatDate(university.earlyActionDate)}</p>
-                  </div>
-                )}
-                {university.edDeadline && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">Early Decision</p>
-                    <p className="font-semibold">{formatDate(university.edDeadline)}</p>
-                  </div>
-                )}
-                {university.regularDeadline && (
-                  <div>
-                    <p className="text-sm text-muted-foreground">Regular Decision</p>
-                    <p className="font-semibold">{formatDate(university.regularDeadline)}</p>
-                  </div>
-                )}
-                {university.hasRolling && (
-                  <div>
-                    <Badge variant="secondary">Rolling Admissions</Badge>
-                  </div>
-                )}
-              </CardContent>
-            </Card>
+            {/* Application Requirements */}
+            {(university.acceptsCommonApp || university.requiresCssProfile || university.otherRequirements) && (
+              <Card>
+                <CardHeader>
+                  <CardTitle>Application Requirements</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  {university.acceptsCommonApp && (
+                    <div className="flex items-center gap-2">
+                      <Badge>Common App Accepted</Badge>
+                    </div>
+                  )}
+                  {university.requiresCssProfile && (
+                    <div className="flex items-center gap-2">
+                      <Badge variant="secondary">CSS Profile Required</Badge>
+                    </div>
+                  )}
+                  {university.otherRequirements && (
+                    <div>
+                      <h4 className="font-medium mb-2">Additional Requirements</h4>
+                      <p className="text-sm text-muted-foreground whitespace-pre-line">
+                        {university.otherRequirements}
+                      </p>
+                    </div>
+                  )}
+                </CardContent>
+              </Card>
+            )}
+
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+              <Card>
+                <CardHeader>
+                  <CardTitle>Admission Statistics</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  {university.acceptanceRate && (
+                    <div>
+                      <p className="text-sm text-muted-foreground">Acceptance Rate</p>
+                      <p className="font-semibold text-2xl">{(university.acceptanceRate * 100).toFixed(1)}%</p>
+                    </div>
+                  )}
+                  {university.avgGpa && (
+                    <div>
+                      <p className="text-sm text-muted-foreground">Average GPA (Admitted)</p>
+                      <p className="font-semibold">{university.avgGpa.toFixed(2)}</p>
+                    </div>
+                  )}
+                  {(university.avgSat25 && university.avgSat75) && (
+                    <div>
+                      <p className="text-sm text-muted-foreground">SAT Score Range</p>
+                      <p className="font-semibold">{university.avgSat25} - {university.avgSat75}</p>
+                    </div>
+                  )}
+                </CardContent>
+              </Card>
+
+              <Card>
+                <CardHeader>
+                  <CardTitle>{t.universityDetail.admissions.deadlines}</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  {university.earlyActionDate && (
+                    <div>
+                      <p className="text-sm text-muted-foreground">Early Action</p>
+                      <p className="font-semibold">{formatDate(university.earlyActionDate)}</p>
+                    </div>
+                  )}
+                  {university.edDeadline && (
+                    <div>
+                      <p className="text-sm text-muted-foreground">Early Decision</p>
+                      <p className="font-semibold">{formatDate(university.edDeadline)}</p>
+                    </div>
+                  )}
+                  {university.regularDeadline && (
+                    <div>
+                      <p className="text-sm text-muted-foreground">Regular Decision</p>
+                      <p className="font-semibold">{formatDate(university.regularDeadline)}</p>
+                    </div>
+                  )}
+                  {university.hasRolling && (
+                    <div>
+                      <Badge variant="secondary">Rolling Admissions</Badge>
+                    </div>
+                  )}
+                </CardContent>
+              </Card>
+            </div>
           </div>
         )}
 

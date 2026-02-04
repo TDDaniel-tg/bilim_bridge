@@ -91,7 +91,7 @@ export default function AdminSettingsPage() {
                                     id="siteName"
                                     value={settings.siteName}
                                     onChange={(e) => setSettings(prev => ({ ...prev, siteName: e.target.value }))}
-                                    placeholder="Bilim Bridge"
+                                    placeholder="Lumus"
                                 />
                             </div>
 
@@ -102,7 +102,7 @@ export default function AdminSettingsPage() {
                                     id="supportEmail"
                                     value={settings.supportEmail}
                                     onChange={(e) => setSettings(prev => ({ ...prev, supportEmail: e.target.value }))}
-                                    placeholder="support@bilimbridge.com"
+                                    placeholder="support@lumus.com"
                                 />
                             </div>
 

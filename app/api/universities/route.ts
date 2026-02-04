@@ -4,7 +4,7 @@ import { prisma } from '@/lib/db'
 export async function GET(request: NextRequest) {
   try {
     const searchParams = request.nextUrl.searchParams
-    
+
     // Extract filter parameters
     const country = searchParams.get('country')
     const major = searchParams.get('major')
@@ -27,7 +27,7 @@ export async function GET(request: NextRequest) {
     const where: any = {}
 
     if (country) where.country = country
-    
+
     if (major) {
       where.majors = {
         path: '$[*].name',
@@ -92,13 +92,47 @@ export async function GET(request: NextRequest) {
       where,
       skip: (page - 1) * limit,
       take: limit,
-      orderBy: sortBy === 'qsRanking' 
+      select: {
+        id: true,
+        nameEn: true,
+        nameRu: true,
+        country: true,
+        city: true,
+        usState: true,
+        logo: true,
+        website: true,
+        // Test requirements
+        minToefl: true,
+        minIelts: true,
+        minSat: true,
+        minAct: true,
+        minGpa: true,
+        // Financial
+        tuitionIntl: true,
+        roomBoard: true,
+        totalCost: true,
+        finAidPercentage: true,
+        // Scholarships
+        hasMeritScholarships: true,
+        hasNeedBased: true,
+        hasFullRide: true,
+        needBasedIntl: true,
+        // Statistics
+        acceptanceRate: true,
+        qsRanking: true,
+        usNewsRanking: true,
+        studentFacultyRatio: true,
+        // Application
+        acceptsCommonApp: true,
+        requiresCssProfile: true,
+      },
+      orderBy: sortBy === 'qsRanking'
         ? { qsRanking: sortOrder as 'asc' | 'desc' }
         : sortBy === 'totalCost'
-        ? { totalCost: sortOrder as 'asc' | 'desc' }
-        : sortBy === 'acceptanceRate'
-        ? { acceptanceRate: sortOrder as 'asc' | 'desc' }
-        : { createdAt: 'desc' }
+          ? { totalCost: sortOrder as 'asc' | 'desc' }
+          : sortBy === 'acceptanceRate'
+            ? { acceptanceRate: sortOrder as 'asc' | 'desc' }
+            : { createdAt: 'desc' }
     })
 
     return NextResponse.json({

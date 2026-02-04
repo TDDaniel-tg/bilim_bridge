@@ -49,7 +49,7 @@ export default function AdminLayout({
                 {t.admin.backToSite}
               </Button>
             </Link>
-            <h2 className="text-lg font-semibold">Bilim Bridge</h2>
+            <h2 className="text-lg font-semibold">Lumus</h2>
             <p className="text-sm text-muted-foreground">Admin Panel</p>
           </div>
 

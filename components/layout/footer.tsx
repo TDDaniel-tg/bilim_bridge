@@ -10,8 +10,8 @@ interface FooterProps {
 }
 
 export function Footer({
-  siteName = "Bilim Bridge",
-  supportEmail = "info@bilimbridge.com",
+  siteName = "Lumus",
+  supportEmail = "info@lumus.com",
   phoneNumber = "+996 XXX XXX XXX",
   address = "Bishkek, Kyrgyzstan"
 }: FooterProps) {
@@ -27,14 +27,8 @@ export function Footer({
                 <GraduationCap className="h-5 w-5 text-white" />
               </div>
 
-              <span className="text-lg font-bold">
-                {siteName === "Bilim Bridge" ? (
-                  <>
-                    <span className="text-gradient-primary">Bilim</span> Bridge
-                  </>
-                ) : (
-                  <span className="text-gradient-primary">{siteName}</span>
-                )}
+              <span className="text-lg font-bold text-gradient-primary">
+                {siteName}
               </span>
             </div>
             <p className="text-sm text-muted-foreground">
@@ -126,7 +120,7 @@ export function Footer({
         <div className="mt-12 pt-8 border-t">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-muted-foreground">
-              © 2025 Bilim Bridge. All rights reserved.
+              © 2025 {siteName}. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <Link href="/privacy" className="text-sm text-muted-foreground hover:text-primary">

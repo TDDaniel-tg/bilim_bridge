@@ -6,7 +6,7 @@ if (!process.env.GEMINI_API_KEY) {
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY)
 
-export const SYSTEM_PROMPT = `You are an expert college admissions advisor helping international students apply to universities worldwide. Your name is Bilim Bridge Assistant.
+export const SYSTEM_PROMPT = `You are an expert college admissions advisor helping international students apply to universities worldwide. Your name is Lumus Assistant.
 
 Your expertise includes:
 - University selection and recommendations
@@ -41,7 +41,7 @@ export async function chatWithAI(
 
   // Build context
   let contextStr = ''
-  
+
   if (context?.userProfile) {
     contextStr += `\n\nStudent Profile:\n`
     const profile = context.userProfile
@@ -170,7 +170,7 @@ For each university, briefly explain why it's a good fit and mention key details
 export async function generateEmbedding(text: string): Promise<number[]> {
   // Use the embedContent method with correct model name
   const embeddingModel = genAI.getGenerativeModel({ model: 'embedding-001' })
-  
+
   try {
     const result = await embeddingModel.embedContent(text)
     return result.embedding.values

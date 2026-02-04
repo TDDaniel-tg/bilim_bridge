@@ -12,7 +12,7 @@ export function TestimonialsSection() {
     {
       name: "Айгерим Нурбекова",
       role: `MIT ${t.home.testimonials.roles.student}`,
-      content: "Bilim Bridge помог мне найти идеальный университет! ИИ-ассистент дал отличные рекомендации, и я поступила в MIT с полной стипендией. Невероятная платформа!",
+      content: "Lumus помог мне найти идеальный университет! ИИ-ассистент дал отличные рекомендации, и я поступила в MIT с полной стипендией. Невероятная платформа!",
       rating: 5,
       initials: "АН",
       color: "bg-purple-500"
@@ -28,7 +28,7 @@ export function TestimonialsSection() {
     {
       name: "Дана Қасымова",
       role: `Oxford ${t.home.testimonials.roles.student}`,
-      content: "Благодаря Bilim Bridge я нашла все необходимые стипендии и гранты. Чек-листы помогли не пропустить ни одного дедлайна. Поступила в Оксфорд!",
+      content: "Благодаря Lumus я нашла все необходимые стипендии и гранты. Чек-листы помогли не пропустить ни одного дедлайна. Поступила в Оксфорд!",
       rating: 5,
       initials: "ДҚ",
       color: "bg-pink-500"
@@ -44,7 +44,7 @@ export function TestimonialsSection() {
     {
       name: "Малика Сейдахметова",
       role: `Harvard ${t.home.testimonials.roles.student}`,
-      content: "ИИ-ассистент просто супер! Ответил на все мои вопросы и помог с выбором специальности. Теперь я в Гарварде, спасибо Bilim Bridge!",
+      content: "ИИ-ассистент просто супер! Ответил на все мои вопросы и помог с выбором специальности. Теперь я в Гарварде, спасибо Lumus!",
       rating: 5,
       initials: "МС",
       color: "bg-green-500"

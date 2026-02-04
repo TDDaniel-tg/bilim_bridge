@@ -12,7 +12,7 @@ interface NavbarProps {
   siteName?: string
 }
 
-export function Navbar({ siteName = "Bilim Bridge" }: NavbarProps) {
+export function Navbar({ siteName = "Lumus" }: NavbarProps) {
 
   const [isOpen, setIsOpen] = useState(false)
   const [mounted, setMounted] = useState(false)
@@ -33,15 +33,8 @@ export function Navbar({ siteName = "Bilim Bridge" }: NavbarProps) {
               <GraduationCap className="h-5 w-5 text-white" />
             </div>
 
-            <span className="text-xl font-bold">
-              {siteName === "Bilim Bridge" ? (
-                <>
-                  <span className="text-gradient-primary">Bilim</span>
-                  <span> Bridge</span>
-                </>
-              ) : (
-                <span className="text-gradient-primary">{siteName}</span>
-              )}
+            <span className="text-xl font-bold text-gradient-primary">
+              {siteName}
             </span>
           </Link>
 

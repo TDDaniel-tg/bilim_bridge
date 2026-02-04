@@ -102,7 +102,7 @@ export const translations = {
       testimonials: {
         title: 'Success Stories',
         titleHighlight: 'Of Our Students',
-        description: 'Find out what students who achieved their goals with Bilim Bridge say',
+        description: 'Find out what students who achieved their goals with Lumus say',
         roles: {
           student: 'Student',
         },
@@ -111,7 +111,7 @@ export const translations = {
         badge: 'Start For Free',
         titlePart1: 'Ready To Start Your Path To',
         titlePart2: 'World Education?',
-        description: 'Join thousands of students who already use Bilim Bridge to find and apply to dream universities',
+        description: 'Join thousands of students who already use Lumus to find and apply to dream universities',
         buttonPrimary: 'Start Now',
         buttonSecondary: 'View Universities',
         trust: {
@@ -394,6 +394,9 @@ export const translations = {
       applyNow: 'Apply Now',
       tuition: 'Tuition',
       duration: 'Duration',
+      backToList: 'Back to Programs',
+      notFound: 'Program Not Found',
+      notFoundDesc: 'The program you are looking for does not exist.',
     },
     successStories: {
       title: 'Success Stories',
@@ -555,7 +558,7 @@ export const translations = {
       testimonials: {
         title: 'Истории Успеха',
         titleHighlight: 'Наших Студентов',
-        description: 'Узнайте что говорят студенты которые уже достигли своей цели с помощью Bilim Bridge',
+        description: 'Узнайте что говорят студенты которые уже достигли своей цели с помощью Lumus',
         roles: {
           student: 'Студент',
         },
@@ -564,7 +567,7 @@ export const translations = {
         badge: 'Начните Бесплатно',
         titlePart1: 'Готовы Начать Свой Путь к',
         titlePart2: 'Мировому Образованию?',
-        description: 'Присоединяйтесь к тысячам студентов которые уже используют Bilim Bridge для поиска и поступления в университеты мечты',
+        description: 'Присоединяйтесь к тысячам студентов которые уже используют Lumus для поиска и поступления в университеты мечты',
         buttonPrimary: 'Начать Сейчас',
         buttonSecondary: 'Посмотреть Университеты',
         trust: {
@@ -847,6 +850,9 @@ export const translations = {
       applyNow: 'Подать Заявку',
       tuition: 'Стоимость',
       duration: 'Длительность',
+      backToList: 'Назад к программам',
+      notFound: 'Программа не найдена',
+      notFoundDesc: 'Программа, которую вы ищете, не существует.',
     },
     successStories: {
       title: 'Истории Успеха',

@@ -1,0 +1,1844 @@
+Unnamed: 0	Unnamed: 1	Unnamed: 2	Основное	Unnamed: 4	Финансовая Помощь	Сроки	Unnamed: 7	Unnamed: 8	Unnamed: 9	Требования	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Дополнительно	Unnamed: 16	Unnamed: 17	Unnamed: 18	Unnamed: 19	Unnamed: 20
+	Университет	Город	"Стоимость обучения 
+(USD/год)"	"Процент 
+Поступления"	"Максимальная 
+Финансовая помощь (USD)"	Дедлайн 1 раунда	Дедлайн 2 раунда	Дедлайн 3 раунда		TOEFL/IELTS	SAT	Эссе	Рекомендательные Письма	Стоимость Заявки	Ссылка на заполнение заявки	Сайт Университета	Сайт Финансовой Помощи	"Рейтинг по 
+Стране"	"Рейтинг в 
+Мире"	Профессии на англ. 
+1.0	Seoul National University	Seoul	2000 - 4000 tuition + 1800 accomonodation	0.15	GKS scholarship	сентябрь 25	август			IELTS 6.0 TOEFL 88	Optional	  	One from school colselor or 2 from principal, math or physics teacher	70 USD	https://en.snu.ac.kr/admission/undergraduate/application	https://en.snu.ac.kr	https://en.snu.ac.kr/admission/undergraduate/scholarships/before_admission	1	60	Law
+2.0	KAIST	Daejeon & Seoul	4,829 tuition fee + 1800 accomodation	0.22	full scholarship	2024-10-21 00:00:00	2024-01-13 00:00:00			IELTS 6.5 TOEFL 83	Нужно предоставить		Only one letter	80 USD	https://apply.kaist.ac.kr/InterApply/InterApply/Login	https://admission.kaist.ac.kr/intl-undergraduate/	https://admission.kaist.ac.kr/intl-undergraduate/scholarships/	2	96	Engineering & technology
+3.0	Yonsei University (Underwood International College)	Seoul	10600 tuition fee	0.18	Tuition fee	авг.23 - окт.11.2024	Апрель 2025			IELTS (не уточнен) TOEFL(не уточнен)	Optional	Self-Introduction & Study plan	Two rec. letters from high school teachers	150 USD	https://uic.yonsei.ac.kr/main/admission.asp?mid=m04_02_01	https://uic.yonsei.ac.kr/main/main.asp	https://uic.yonsei.ac.kr/main/admission.asp?mid=m04_03_02	3	187	Medicine & Business administration
+4.0	Korea University	Seoul	6700 - 8500 tuiton + 1800 accomodation	0.18	- 100% of entrance fee and tuition fee, Dormitory Fee	фев - март 2025	.,			IELTS 6 TOEFL 100	Optional	Self-Introduction & Study plan	One letter	127 USD	http://oia.korea.ac.kr/listener.do?layout=dgr_2_1	https://www.korea.edu/mbshome/mbs/en/index.do	http://oia.korea.ac.kr/listener.do?layout=dgr_6	4	167	Law & Economics
+5.0	Sungkyunkwan University(SKKU)	Seoul	Administration fee - 110$ + 3740$-4860$(tuition fee)	0.17	"IELTS 8.0 / TOEFL iBT 110 or higher : 100% tuition waiver
+‣IELTS 7.0 / TOEFL iBT 95 or higher : 50% tuition waiver
+SKKU Global Leader Scholars         Samsung Global Sungkyun Scholarship for International Students"	24 февр-10 март , 2025	19 мая-2 июня , 2025			IELTS 5.5 TOEFL 71	Optional	Self-Introduction & Study plan		100 USD	https://admission-global.skku.edu/eng/etc/notice_Undergraduate.html	https://www.skku.edu/skku/index.do	https://admission-global.skku.edu/eng/undergraduate/fees.html	5	101	Global Business Administration, Global Economics, Global Biomedical Engineering
+6.0	Pohang University	Seoul	2730$-2950$	0.15	"- Presidential Science Scholarship: Full tuition + living expenses (GPA ≥ 3.0) .  
+ - National Scholarship Type I/II: Tiered support based on income (GPA ≥ 2.3) .  
+ - JIgok Scholarship: Full tuition (GPA ≥ 3.0) "	26 сент - 3 ноябр 2025	(varies)			IELTS 6 TOEFL 80	Optional	Self-Introduction & Study plan		90 USD		https://international.postech.ac.kr		8	151	"Computer Science & Engineering  
+Materials Science & Engineering  
+Mechanical Engineering  
+Chemical Engineering"
+7.0	Hanyang University 	Seoul	5707$-8600$	0.04	"1.        Hanyang International Scholarship Program (HISP)
+        •        Based on academic achievement.
+        •        Tuition reduction: 100%, 70%, or 50%.
+        •        Valid for 8 semesters (freshmen) or 4 semesters (transfer students).
+        •        Must maintain a minimum GPA of 2.5 each semester.
+        2.        Scholarship for Excellence in English Proficiency
+        •        For applicants with TOEFL iBT ≥ 90 or IELTS ≥ 6.5.
+        •        30% tuition reduction.
+        •        Valid for the first semester only.
+        3. Hanyang IIE Scholarship (for those who completed Korean language courses at IIE)
+        •        Level 6: 100% tuition reduction.
+        •        Level 5: 50% tuition reduction.
+        •        Valid for the first semester only."	4 март - 21 апреля 				IELTS 6.5 TOEFL 89	Optional	Self-Introduction & Study plan		138 USD		https://www.hanyang.ac.kr/web/eng		6	351-400	"Business Administration
+
+Economics 
+
+International Studies 
+
+Data Science"
+8.0	Kyung Hee University	Seoul	3400$-5000$	40-54%	"- Admission Scholarship A: Full tuition (1st semester; top scorers per college).
+- TOPIK Scholarships:
+Level 6: Full tuition (1st semester).
+Level 5: 50% tuition.
+- Pioneer Scholarship: Full tuition (1 year; for students from underrepresented countries).
+- Academic Encouragement Scholarship: Up to 3 million KRW/semester (GPA ≥ 3.0).
+-SDGs Scholarship: Full tuition for 1 semester, extendable up to 1 year. For Global SDGs applicants ranked in the top 50%.
+-Admission Scholarship G: Full tuition for 1 semester, renewable for up to 4 years (GPA ≥ 3.5). For top 50% applicants in engineering/software majors."	February 24 - March 7	April 21- May 9			IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan	Not neccessery	180 USD		https://www.khu.ac.kr/kor/user/main/view.do		7	251-300	"International Studies (English Track)
+ Global Hospitality & Tourism Management
+Asian Studies
+Management (English Track)
+Nuclear Engineering (English Track)
+Civil Engineering (English Track)"
+9.0	Ulsan National Institute of Science and Technology (UNIST)	Ulsan	1983$-2353$	0.71	UNIST Scholarship, GKS	янв 3- фев 2	март 11- апрель 5			IELTS 6.5 TOEFL 90	Optional	Personal Statement or Essay	Needed	60USD	[2024 Fall] Undergraduate Admission Guidelines for International Students | Undergraduate School Admissions (unist.ac.kr)	https://www.unist.ac.kr/		9	451-500	"Engineering
+Information and Biotechnology
+Business Administration
+Liberal Arts
+Natural Sciences 
+"
+10.0	Sejong University	Seoul	6000$-8300$ tuition 	0.4	"Up to 80% tuition reduction for students with minimum score of TOEFL IBT 80, 
+IELTS 5.5, or New-TEPS 326
+30% tuition reduction for students coming from a country with English as the native language"	с 6 марта по 27 марта	с 22 апреля по 13 мая			IELTS 5.5 TOEFL 80	Optional	Study plan	Rec. Letters	120 USD	Undergraduate School | SEJONG UNIVERSITY	http://en.sejong.ac.kr/eng/index.do		16	301-350	"Division of Global Leadership
+Public Administration
+Media and Communication
+Faculty of Business Administration
+Economics
+Faculty of Hospitality, Tourism and Food Service Management
+Computer Science and Engineering
+Creative Studies
+Music
+"
+11.0	Kyungpook National University	Seoul	1900-2800$	0.15	"TOPIK (TOPIK IBT) Level 3 Certificate: Scholarship for 16-20% of the Tuition Fee for the first semester.
+ TOPIK (TOPIK IBT) Level 4 Certificate: Scholarship for 40-42% of the Tuition Fee for the first semester.
+ TOPIK (TOPIK IBT) Level 5 Certificate: Scholarship for 80-84% of the Tuition Fee for the first semester.
+TOPIK (TOPIK IBT) Level 6 Certificate: Scholarship for 100% of the Tuition Fee for the first semester."		Apr. 14 - May. 2			IELTS 5.5 TOEFL 80	Optional	Statement of Purpose & Study plan		60 USD		https://en.knu.ac.kr/main/main.htm		19	801-1000	"Agriculture & Life Sciences
+Natural Sciences
+Social Sciences
+Science & Technology"
+12.0	Chung-Ang University	Seoul	6500 - 8800 tuition	0.06	"TOPIK level 5        50% reduction in tuition
+TOPIK level 6        100% reduction in tuition"	March 24 - April 18	June 2 - June 13			IELTS 5.5 TOEFL 71	Optional	Self-Introduction & Study plan		~150 USD		https://neweng.cau.ac.kr/cms/FR_CON/BoardView.do?MENU_ID=320&CONTENTS_NO=&SITE_NO=3&BOARD_SEQ=15&BOARD_CATEGORY_NO=&P_TAB_NO=&TAB_NO=&BBS_SEQ=295		11	601-800	"Business Administration and Global Finance
+Global arts"
+13.0	Pusan National University	Busan	3200 - 5000 tuition	0.15	"TOPIK Scholarship
+        •        TOPIK Level 6: Full tuition waiver for both Tuition I and II
+        •        TOPIK Level 5: Full waiver of Tuition II
+        •        TOPIK Level 4: Waiver of Tuition I"		Mar 17 - Apr 4 			IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan		80 USD	https://go.pusan.ac.kr/college_2016/pages/index.asp?p=47&mj=06	https://www.pusan.ac.kr/eng/Main.do	https://www.pusan.ac.kr/eng/CMS/Contents/Contents.do?mCode=MN016	12	801-1000	"Global studies: 
+Humanities and social sciences 
+Natural Sciences 
+Arts"
+14.0	Gwangju Institute of Science and Technology	Gwangju	1850-2600$	0.15	"Tuition fee Fully waived        
+Granted to all international students without any conditions"		декб 18-фев 11 			IELTS 5.5 TOEFL 80	Нужно предоставить	Self-Introduction & Study plan	One rec. letter	~120 USD	https://www.gist.ac.kr/iuadm/	http://www.gist.ac.kr	https://www.gist.ac.kr/iuadm/html/sub03/0301.html	16	501-600	"•        Electrical Engineering and Computer Science
+        •        Materials Science and Engineering
+        •        Mechanical Engineering
+        •        Earth Sciences and Environmental Engineering
+        •        Life Sciences
+        •        Physics
+        •        Chemistry
+        •        Mathematics
+        •        Biomedical Science and Engineering
+        •        Energy Engineering
+        •        Intelligent Robotics
+        •        Culture Technology
+        •        Humanities and Social Science"
+15.0	Daegu Gyeongbuk Institute of Science and Technology	Daegu	6000$-12000$	0.25	1		December 4 - February 3			IELTS 6.0 TOEFL 80	Optional	Personal Statement or Essay	Needed	75-150USD	DGIST Internaional Graduate	Daegu Gyeongbuk Institute of Science&Technology (dgist.ac.kr)		11	351-400	Basic Scinece & Engeenering 
+16.0	Ewha Womans University	Seoul	$3,505-$3,806	30-40%	"- Ewha Global Partnership Program (EGPP):
+Covers full tuition + living stipend (for top-tier applicants).
+Undergraduate* -Freshman: max 8 semesters
+Requires GPA ≥ 3.5/4.0 and leadership potential.
+
+-ISS(International Students Scholarship)
+Applicants seeking admission for
+undergraduate programs (freshman)
+through the special admissions process
+for international applicants
+Full tuition (including admission fee)
+"	March 5, 2025 13:00 ~  April 7, 2025 17:00				IELTS 6.0 TOEFL 80	Optional	Self-Introduction & Study plan		~120 USD	http://isa.ewha.ac.kr/oisa/1445/subview.do	https://www.ewha.ac.kr/ewhaen/index.do		12	601-800	"International Studies
+Global Korean Studies*
+
+Majors marked with an asterisk: All major courses are conducted in English (with a number of mandatory
+liberal arts courses conducted in Korean).
+
+"
+17.0	Ajou University	Suwon 	5880$	0.4	"Ajou Frontier Scholarship G
+        •        Amount: 100% tuition waiver
+        •        Duration: from 1 semester up to 4 years
+        •        Conditions: Recommended by the Vice President for International Affairs for outstanding academic achievements
+
+For English track freshman/transfer scholarship, scholarships are awarded based on TOEFL IBT, IELTS or an equivalent official English proficiency test score"	April 14 2025 -  May 30 2025				IELTS 5.5 TOEFL 80	Optional	Statement of Purpose, recommendation letter, CV 	Needed	90 USD	UNIST | A world-class science and technology leading university that contributes to human life	Ajou University		17	1204	"
+
+International Business(English Track)
+Business Administration (English Track) 
+IT Business major (English Track)"
+18.0	Konkuk University	Seoul	1064-4577$	0.15	"Superior Grade scholarship - GPA 3.0/4.5, TOPIK 4 Level,
+top 5 % of Students will receive the scholarship 2,000,000
+
+STEP-UP scholarship -  GPA 2.0/4.5 12 Earn a better GPA compared to previous semester /up to 25% of total international students - 600,000
+~1,000,000
+"	April 3 (Thu) – April 18 (Fri), 2025	"May 26 (Mon) – June 9 (Mon), 2025 
+"			IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan		107 USD		https://english.kku.ac.kr/mbshome/mbs/wwwen/index.do		13	551-560	"В гайдах нет точной информации про english track/ english taugh programms
+"
+19.0	Inha University 	Seoul	5140-6600$	0.07	"
+SGCS Students:
+TOEFL IBT 115 or IELTS 9 or higher - 2 year
+TOEFL IBT 106 or IELTS 8 or higher - 1 year full tuition fee
+TOEFL IBT 96, IELTS 7 or higher - 1 semester full tuition fee
+TOEFL IBT 90, IELTS 6.5 or higher - 1 semester h
+"	24.03.2025 - 25.04.2025				IELTS 5.5 TOEFL 80	Optional	Personal statement, letter of consent	Needed 	free	https://eng.inha.ac.kr/eng/3718/subview.do 	Inha University		14	946	"IBT(International Business & Trade)
+ISE (Integrated System Engineering)"
+20.0	Yeungnam University	Daegu	5294$-8086$	0.4	"Без топика
+Second semester and afterwards:
+30% Tuition Waiver - GPA 2.5~3.0"	2025.03.10. 09:00~03.27. 17:00	2025.06.11 09:00~2025.07.02. 17:00			IELTS 5.5 TOEFL 80	Optional	Personal Statement or Essay, Study plan 	Needed	48USD	Undergraduate Application Overview - Yeungnam University (yu.ac.kr)	Undergraduate Application Overview - Yeungnam University (yu.ac.kr)		21	1344	"Global Studies (Saemaul Studies & International
+Development): English Track
+Global Studies (Computer Engineering Major): English
+Track
+
+In the case of English Track, only students enrolled in universities with relevant agreements are eligible to apply, and admission will be conducted according to the agreement."
+21.0	Jeonbuk National University	Seoul	1490-1869$	0.2	"Academic Excellence Scholarship: 
+- Type 1 Scholarship: 100% tuition exemption - TOPIK level 6 or IELTS 8 or higher
+- Type 3 Scholarship: Approx. 40% tuition exemption - TOPIK level 5 or higher (IELTS 7.5)
+- Type 5 Scholarship: Approx. 15% tuition exemption - within budget range among those who have other official language proficiency scores
+
+Link Scholarship:
+- Type 3 Scholarship: Approx. 40% tuition exemption - Those who have completed 4 or more semesters of the Korean language course at Jeonbuk National University in the past 2 years and have TOPIK Level 3 or higher;Those who have completed 6 or more semesters of the Korean language course at Jeonbuk National University in the past 2 years 5 types of scholarships Approximately 15% of tuition fee exemption
+- Type 5 Scholarship: Approx. 15% tuition exemption - Those who have completed 2 or more semesters of the Korean language course at Jeonbuk National University in the past 2 years and have TOPIK Level 3 or higher; Those who have completed 3 or more semesters of the Korean language course at Jeonbuk National University in the past 2 years "	17 March - 28 March	30 April - 14 May			IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan		80 USD		https://www.jbnu.ac.kr/eng/		"18 (US News)
+20 (QS)
+26 (THE)
+"	591-600	International Studies (International Studies Major), International Engineering and Science (Engineering Science Majors)
+22.0	Sogang University	Seoul	$3464-$4482 (as of 2024)	30-40%	" Sogang Excellence Scholarship Ⅰ
+ Beneficiaries: Students with highest entrance scores (Up to top 1% whose application is evaluated as 
+outstanding)
+ Benefits: Full scholarship (full tuition fee) for 8 semesters 
+6 semesters for 2nd year transfers, 4 semesters for 3rd year transfers ※ 
+Conditions: Continuous scholarship when the beneficiary completes 12 or more academic credits for the 
+preceding semester and maintains a GPA of 2.80 or above out of 4.30
+ Sogang Excellence Scholarship Ⅱ
+ Beneficiaries: Students with excellent entrance scores (in the top 3% of successful candidates except the 
+recipient(s) of Sogang Excellence Scholarship I whose application is evaluated as outstanding)
+ Benefits: Full scholarship (full tuition fee) for 2 semesters 
+Conditions: Continuous scholarship when the beneficiary completes 12 or more academic credits for the 
+preceding semester and maintains a GPA of 2.80 or above out of 4.30
+ Sogang Excellence Scholarship Ⅲ
+ Beneficiaries: Selected from within the 5% of the final admitted students
+ Benefits: 100% scholarship (100% tuition fee) for the first semester
+ 
+
+ Admission Scholarship Ⅰ
+ Beneficiaries: Selected from within the 10% of the final admitted students.
+ Benefits: 50% scholarship (50% tuition fee) for the first semester
+ Admission Scholarship Ⅱ
+ Beneficiaries: Selected from within the 25% of the final admitted students.
+ Benefits: 25% scholarship (25% tuition fee) for the first semester
+ Admission Scholarship Ⅲ
+ Beneficiaries: Selected from within the 50% of the final admitted students.
+ Benefits: 10% scholarship (10% tuition fee) for the first semester
+ 
+ 
+ Language Excellence Scholarship Ⅰ
+ Beneficiaries: Student(s) who have completed Level 6 of the Sogang KLEC Language Program or the 
+student(s) or a valid TOPIK level 6 score whose application is evaluated as outstanding
+ Benefits: Full scholarship (full tuition fee) for the first semester
+ Language Excellence Scholarship Ⅱ
+ Beneficiaries: Student(s) who have completed Level 5 of the Sogang KLEC Language Program or student(s) or 
+a valid TOPIK level 5 score whose application is evaluated as outstanding
+ Benefits: Half scholarship (halved tuition fee) for the first semester
+ Sogang KLEC Scholarship
+ Beneficiaries: Student(s) who have completed Level 3 or above of the Sogang KLEC Language Program
+ Benefits: 25% scholarship (25% of tuition fee) for the first semester
+  "	7 April - 16 May 				IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan	One letter	~100 USD	https://wwwe.sogang.ac.kr/wwwe/admissionprograms.html	https://wwwe.sogang.ac.kr/wwwe/index_new.html	https://wwwe.sogang.ac.kr/wwwe/scholarships.html	20	801-1000	"Division of English (American Culture)
+Economics
+Business Administration
+Division of Global Korean Studies (Global Korean Studies)
+Geppert School of International Studies (International Commerce, International Relations, Asian Studies)"
+23.0	Chonnam National University	Gwangju	3390-4500$	0.25	"Global Scholarship
+Full tuition waiver for the first semester
+Applicants are not required to submit a separate form of application
+All successful applicants will be considered as candidates for Global Scholarship
+
+TOPIK Scholarship
+Full tuition waiver for the first semester
+Applicants who hold a TOPIK Level 6
+An Applicant who submit an expired certificate will not be considered as a scholarship beneficiary
+
+SRS (Strategic Researchers Scholarship), BK SRS (BK Strategic Researchers Scholarship)
+Full tuition waiver for the first semester
+Applicants must have a prospective advisor professor in CNU to be considered as a candidate for SRS
+• Applicants are not required to submit a form of application • Selection for applicants of BK department
+* Applicants must have a prospective advisor professor in CNU to be considered as a candidate for SRS
+• Applicants are not required to submit a form of application
+
+Academic Excellence Scholarship
+Partial tuition waiver for the first semester (about 12-17% deduction)
+Applicants are not required to submit a separate form of application in order to apply for Academic Excellence Scholarship. 
+All successful applicants will be considered as candidates for Academic Excellence Scholarship"	1 April - 25 April				IELTS 5.5 TOEFL 80	Optional	Personal Statement or Essay & study plan 	Optional 	45-115USD	https://www.bing.com/ck/a?!&&p=1e05139794af602fJmltdHM9MTcyNDExMjAwMCZpZ3VpZD0wMzNiZWRhYy0wYzcwLTYyNWYtMDk2NC1mZTI4MGQyNzYzMzImaW5zaWQ9NTQxNQ&ptn=3&ver=2&hsh=3&fclid=033bedac-0c70-625f-0964-fe280d276332&u=a1L3NlYXJjaD9xPXNpdGU6aW50ZXJuYXRpb25hbC5qbnUuYWMua3IrY2hvbm5hbStuYXRpb25hbCt1bml2ZXJzaXR5K2FwcGx5KyZmb3JtPURMSU5LUg&ntb=1	전남대학교 국제협력과 홈페이지 (jnu.ac.kr)		24	1086	Polymer Engineering, Agricultural Chemistry, Wood Science and Engineering, Wood Science and Landscape Architecture, English Language
+24.0	Chungnam National University 	Daejeon 	1338-1890$	0.3	"Freshman - Foreign student who received upper admissions result  - Some portion of Tuition
+(only for first semester)
+Require TOPIK Level 5 or above Qualified Applicants 100% of Tuition
+(only for first semester)
+Require TOPIK Level 4 Qualified applicants - Some portion of Tuition
+(only for first semester)
+
+Student whose average scores are above 2.75 in a recent semester and who completed 15 credits -
+ A portion of tuition"	22 April - 31 May				IELTS 5.5 TOEFL 80	Optional	Statement of Purpose & Study plan	Optional 	75-150USD	https://plus.cnu.ac.kr/html/en/sub03/sub03_0304.html	 https://www.cnu.ac.kr/		15	989	International Studies
+25.0	University of Seoul	Seoul	3500-4840$	0.49	"Full-tuition scholarship: top 10 percent of international students
+Half-tuition scholarship: between the top 10 and 20 percent of international students"	15 April - 24 April				IELTS 5.5 TOEFL 80	Нужно предоставить	Self-Introduction & Study plan		~100 USD	https://ipsi2.uwayapply.com/foreign/uos/?CHA=1	https://english.uos.ac.kr	https://iice.uos.ac.kr/iice/schola/admissions.do?epTicket=LOG	24-33	1001+	No information. But the university has Korean language requirements (TOPIK).
+26.0	HUFS	Seoul	$9806	0.44	 Full exchange tuition waiver	Apr 30; final: Jun 5, 2025	April 14 - May 30			IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan		158 USD		www.hufs.ac.kr		13	392	"International Studies
+International Economics and Law
+English Linguistics and Language Technology"
+27.0	Dongguk University	Seoul	4500 - 6000 tuition	0.08	"First semester of admission
+Holder of TOPIK level 3        30% of tuition
+Holders of TOPIK level 4 or higher        50% of tuition"	30.04.2025 – scholarship; 05.06.2025 – final	27 мая - 5 июня			IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan	Need	100 USD	https://iadmission.dongguk.edu/dkglobal3_1_en?sca=Undergraduate	https://www.dongguk.edu/eng/main	https://iadmission.dongguk.edu/dkglobal3_2_en?sca=Undergraduate	15	456	does not offer a fully English-taught undergraduate program
+28.0	Soongsil University	Seoul	2200-4800	0.3	"1.        Soongsil Global Scholarship
+
+        •        100% tuition waiver for applicants with TOPIK level 5 or higher
+        •        70% tuition waiver for applicants with TOPIK level 4
+        •        40% tuition waiver for applicants with TOPIK level 3 or those who completed level 4+ at Soongsil Korean Language Institute
+        •        30% tuition waiver for applicants with high scores on Soongsil Korean language test
+        •        Entrance fee waiver for applicants who completed at least one semester at Soongsil Korean Language Institute
+
+        2.        TOPIK Achievement Scholarship
+
+        •        One-time payment of 300,000 KRW for students who achieve TOPIK level 5 or higher after enrollment (if not previously awarded)
+
+        3.        Soongsil Exchange Student Scholarship (SESS)
+
+        •        Free dormitory accommodation for one semester
+        •        Condition: Students must teach Korean students their native language and culture for 4 hours per week
+"	1 апреля 2025 – 7 апреля 2025	4 июня 2025 – 10 июня 2025			IELTS 5.5 TOEFL 80	Optional	Self-Introduction & Study plan	Optional 	40-70USD	Soongsil University (ssu.ac.kr)	 https://www.bing.com/ck/a?!&&p=f8a10ca7f97c1625JmltdHM9MTcyNDAyNTYwMCZpZ3VpZD0wMzNiZWRhYy0wYzcwLTYyNWYtMDk2NC1mZTI4MGQyNzYzMzImaW5zaWQ9NTIyNA&ptn=3&ver=2&hsh=3&fclid=033bedac-0c70-625f-0964-fe280d276332&psq=soongsil+university&u=a1aHR0cHM6Ly9zdHVkeS5zc3UuYWMua3IvZW4vbWFpbi9tYWluLmRv&ntb=1 		29	1681	
+29.0	Korea University of Technology and Education (KOREATECH)	Seoul	2000-2600$	0.3	GKS		July 7 - July 10			IELTS 5.5 TOEFL 80	Optional	Statement of Purpose & Study plan	Optional 	75-150USD	https://www.bing.com/ck/a?!&&p=1c13d5e20e6f3096JmltdHM9MTcyNDAyNTYwMCZpZ3VpZD0wMzNiZWRhYy0wYzcwLTYyNWYtMDk2NC1mZTI4MGQyNzYzMzImaW5zaWQ9NTE5NQ&ptn=3&ver=2&hsh=3&fclid=033bedac-0c70-625f-0964-fe280d276332&psq=Korea+University+of+Technology+and+Education+(KOREATECH)+apply&u=a1aHR0cHM6Ly93d3cua29yZWF0ZWNoLmFjLmtyL21lbnUuZXM_bWlkPWEyMDMwMTAzMDAwMA&ntb=1  	KOREA UNIVERSITY OF TECHNOLOGY (koreatech.ac.kr)		71	3863	"School of Mechanical Engineering, School of Electrical, Electronics and Communication
+♦ Engineering, School of Computer Science and Engineering, School of Industrial 
+Management, School of Energy, Materials and Chemical Engineering, School of Design 
+and Human Engineering, School of Smart Factory Convergence."
+30.0	Hallym University	Seoul 	6697$-9000$	0.2	"50% tuition fee for newly admitted students 
+40% tuition fee and KRW 200,000 book grant for students with Hallym TOPIK 2
+50% tuition fee and KRW 400,000 book grant for students with Hallym TOPIK 3
+50% tuition fee, KRW 500,000 book grant, and entrance fee for students with Hallym TOPIK 4
+70% tuition fee, KRW 500,000 book grant, and entrance fee for students with Hallym TOPIK 5 or higher"		May 26 ~ June 27			IELTS 5.5 TOEFL 80	Optional	Study plan, letter of consent, resume 	Needed	38-75USD	글로벌교류센터(영문) | Admission | Undergraduate | Apply now & Admission guide (hallym.ac.kr)			40	2290	global business, korean stidies, english language&literature
+31.0	Sungshin Women’s University	Seoul 	5550$-7890$	0.35	"Sungshin University offers scholarships for international students based on TOPIK scores (up to 100% 
+ tuition waiver), academic performance (GPA-based), language course excellence, and participation in
+ school activities. A welcome scholarship and government-funded Global Korea Scholarship (GKS) are 
+also available.
+"	2 апр - 16 апр 	25 июня - 9 июля 			IELTS 5.5 TOEFL 80	Optional	Video interview or Face-to-face interview	Needed	38-75USD	Admissions > Korean Language School > Registration & Application > | 성신여자대학교 (sungshin.ac.kr)	https://www.sungshin.ac.kr/main_eng/index.do		47	901-950	"English Linguistics 
+English Grammar through Media
+Applied English Linguisitics 
+English Phonetics and Phonology 
+English Syntax 
+English Semantics and Pragmatics
+Sociolinguistics
+The Adventure of the English Language"
+32.0	Kookmin University	Seoul 	6360$-9360$ + entrance fee 	0.76	"All freshmen students
+20% of Tuition fee
+Students who acquired TOPIK Level 6
+Students who are equivalent to IELTS 8.0 or higher
+100% of Tuition fee
+Students who acquired TOPIK Level 5
+Students who are equivalent to IELTS 7.5 or higher
+70% of Tuition fee
+Students who acquired TOPIK Level 4
+Students who are equivalent to IELTS 7.0 or higher
+50% of Tuition fee
+Students who acquired TOPIK Level 3
+Students who are equivalent to IELTS 6.5 or higher
+30% of Tuition fee"	Mid-April – April 18	April 19 – May 30	June – July 11		IELTS 6.5 TOEFL 90	Optional	Partfolio 	Optional 	70USD	Undergraduate - Admissions > Undergraduate - Kookmin University		Kookmin University	29	1651	"KMU International Business School (KIBS)
+English for Global Communication"
+33.0	Jeju National University 	Jeju island 	2100$-2260$	0.38	"GKS, Full tuition fees for students with TOPIK level 5 or higher and belonging to the top 8.5% of 
+international students for admissions
+20% tuition fee waiver for students with TOPIK level 3 or higher"	22 апреля - 25 апреля 	3 июня - 7 июня			IELTS 5.5 TOEFL 80	Optional	Study plan, personal statement	Needed 	38-75USD	Проблема конфиденциальности (jejunu.ac.kr)	제주대학교 (jejunu.ac.kr)		45	2447	Management,data security engineering,civil engineering, performing arts 
+34.0	Hongik University	Seoul	7854$-10521$		"1.        Hongik Global Scholarship
+        •        Designed for international students, including those studying in English.
+        •        Requires a good level of Korean language proficiency (usually TOPIK level 5 or higher), but in some cases, English proficiency may also be considered.
+        •        Covers tuition fees and part of the living expenses.
+        2.        Good GPA Scholarship
+        •        Available to all students, including those enrolled in English-taught programs.
+        •        Based on academic performance (GPA).
+        3.        Global Korea Scholarship (GKS)
+        •        A government scholarship for international students regardless of their language of instruction.
+        •        Supports tuition, living expenses, and other costs."	24 февр - 7 марта 	12 мая - 19 мая 2025			IELTS 6.5 TOEFL 90	Optional	Partfolio 	Needed	75USD	Hongik University | [Application Closed] 2024 GKS-G (일반) Application Forms & Guidelines (University Track-General)			36	1201-1400	"BA in Education
+BA in Economics
+BA in English Language & Literature
+BA in French Language & Literature
+BA in German Language & Literature
+BA in Korean Language & Literature
+BBA in Business Administration
+B.Tech in Electronic and Electrical Engineering
+B.Tech in Civil Engineering
+B.Tech in Mechanical & System Design Engineering
+B.Tech in Industrial & Information Engineering"
+35.0	Dankook University 	Yongin|Cheonan  	4680$-5000$	0.4	"GKS, Scholarship for Foreign Students from Uni
+Minimum IELTS 5.5 or TOEFL IBT 71 - 50% of tuition waiver (1st semester) 
+Minimum IELTS 6.5 or TOEFL IBT 80 60% of tuition waiver (1st semester)
+Minimum IELTS 7.0 or TOEFL IBT 105 70% of tuition waiver (1st semester)
+Minimum IELTS 7.5 or TOEFL IBT 110 100% of tuition waiver and dormitory fee (1st semester) "	Apr 3 ~ April 18	 June 2 -  June 16 			IELTS 5.5 TOEFL 80	Optional	Study plan, personal statement	Needed	-	Admission Guide - DKU International (dankook.ac.kr)	DKU International (dankook.ac.kr)		22	1363	"International Business Administration
+Korea Studies (New)
+Mobile Systems Engineering
+Bio and Material Engineering (New)"
+36.0	Sookmyung Women's University 	Seoul	3400$-5200$	0.33	"GKS, IELTS 8.0 or higher, TOEFL iBT 112 or higher, NEW TEPS 498 or higher 70% Tuition Waiver
+IELTS 6.5~7.5, TOEFL iBT 100~111, NEW TEPS 398~497 40% Tuition Waiver
+IELTS 5.5~6.0, TOEFL iBT 71~99, NEW TEPS 327~397,
+Students from English-speaking countries 30% Tuition Waiver
+•
+English Track
+GPA
+4.3 or higher             4.0 or higher           3.5 or higher            3.0 or higher
+100% Tuition Waiver 60%Tuition Waiver 50% Tuition Waiver 30% Tuition Waiver"	Apr 4 - 23	"June 2 - 28
+3 round 
+June 30 - July 7"	30 июня-7июля		IELTS 5.5 TOEFL 80	Optional	Study plan, perfsonal statement 	Needed	112USD	Undergraduate | (sookmyung.ac.kr)	숙명여자대학교(영문) (sookmyung.ac.kr)		39	2194	"School of English 
+School of Global Service"
+37.0	Incheon National University 	Seoul & Incheon 	2080$	0.47	"GKS
+TOPIK IELTS TOEIC TOEFL     Amount of Scholarship
+Level 6  7.0     800       94              70% of tuition fee 
+Level 5  6.5     750       87              50% of tuition fee 
+Level 4  6.0     700       82              30% of tuition fee 
+Merit Scholarships IELTS 6.0, TOEIC 700, TOEFL IBT 82 or above, 
+On-Campus Scholarships
+"		Mar. 10th~Apr. 18			IELTS 5.5 TOEFL 80	Optional	Personal statement, letter of consent, study plan 	Needed	60USD	Undergraduate Application (inu.ac.kr)	Incheon National University(인천대학교_영문) (inu.ac.kr)		43	4305	Korean Trade & Commerce Public Administration
+38.0	Myongji University	есть	2740$-3700$		"Students who do not meet one of the following ILETS or TOEFL requirements will be granted 20% of 
+the tuition reduction (as supplementary living allowance) 
+IELTS 5.5 / TOEFL iBT 71 Provides 40% of the  tuition (as scholarship) IELTS 6 / TOEFL iBT 79
+ Provides 60% of the tuition (40% as scholarship, 20% as 
+supplementary living allowance) IELTS 6.5 / TOEFL iBT 87 Provides 70% of the tuition (40% as scholarship,
+ 30% as supplementary living allowance) IELTS 7 / TOEFL iBT 95 Provides 80% of the tuition 
+(40% as scholarship, 40% as supplementary"	19-28 марта	1-10 апреля	"
+
+10 - 19 июня"										42		"Business Administration
+ Humanities
+Smart System and Engineering
+"
+39.0	Kangwon National University		890$ per semester 		"TOPIK Level 4: 60% of the tuition fee (English Track: IETLS 6.5 or TOEFL 79 or higher) • TOPIK Level 5 or
+ above: Full scholarship (English Track: IELTS 7.0 or TOEFL 94 or higher)"	14 апреля - 2 мая	26 мая - 13 июня											19		Humanities and social sciences
+40.0	Pukyong National University		нет		"GKS
+40% of tuition fees for students with TOPIK Level 4
+100% of tuition fees for students with TOPIK Level 5 or higher"		не опубликованы											24		English Language and Literature
+41.0	Youngsan University of Son Studies		2000$		"Students who have obtained IELTS 5.5(iBT 71) 30% of tuition fee
+Students who have obtained IELTS 6.0(iBT 76) 40% of tuition fee
+Students who have obtained IELTS 6.5(iBT 81)
+※ Including Cum laude
+50% of tuition fee"		нет данных											192		"Major in Korea Business 
+Major in International Business Law
+School of Hotel and Tourism Management 
+School of Cooking Arts 
+Department of Airline and Tourism Management"
+42.0	Chungbuk National University	нет англ																25		
+43.0	University of Ulsan		3600$-6300$		"AF-1 Humanities, Social Sciences, Business Should satisfy one of the below 1) Submission of 1 SCIE-level
+thesis or 2 KCI-level theses 2) Books or translations including join works Should satisfy one of the below
+1) 2 SCIE-level theses 2) 1 SCIE-level thesis and 2 KCI-level theses 3) 4 KCI-level theses 100% Tuition
+Natural Sciences, Engineering, Arts, Design, Sports, Medicine Submission of 1 SCIE-level
+thesis or 2 KCI-level theses
+AF -2 Humanities, Social Sciences, Business Should satisfy one of the below 1) Submission of 1 KCI-level
+thesis 2) 1 book or translation including joint works Should satisfy one of the below 1) 1 SCIE-level thesis
+2) 2 KCI-level theses 85% Tuition Natural Sciences, Engineering, Arts, Design, Medicine Submission of 1 KCI-level thesis
+BF Should satisfy one of the below - 1 Presentation at national conference - TOPIK level 4 or higher
+1 KCI-level thesis 50% Tuition
+CF Each department has its own requirement. 20% Tuition"	ноябрь ?	21 апреля - 9 мая											27		"Humanities, Social Sciences, Business
+Natural Sciences
+Engineering
+Arts, Design and Sports
+Medicine"
+44.0	Gyeongsang National University		не скачивается файл ( выдает как вирус)															32		
+45.0	Keimyung University		3500$-3700$		"A - Applicants who acquired TOPIK level 5 or higher 100% Wavier of Tuition Fee
+B - Applicants who acquired TOPIK level 4 70% Wavier of Tuition Fee
+C - 1. Applicants who have TOPIK level 3
+2. Applicants who have TOEFL iBT 80, iELTS 5.5 or abovе (Only Applicable to KAC) 50% Wavier of Tuition Fee"	31 марта -18 апреля 	23 июня - 11 июля											30		International business, international relations, Digipen game engineering 
+46.0	Hannam University		2000$-2500$		"For Linton Global School Those who do not achieve TOEFL iBT 71 or IELTS 5.5 40% tuition reduction 
+Those who achieve TOEFL iBT 71 or IELTS 5.5 or higher 50% tuition reduction"		12 - 19 мая											57		"Global Business 
+Global media&Culture"
+47.0	Gachon University		2000$-3000$		"International Students 50% reduction in tuition for the first semester
+TOPIK level 4 holder
+100% reduction in tuition for the first semester
+TOPIK level 5 holder
+TOPIK level 6 holder 100% reduction in tuition for the first two semester"	14 апреля- 2 мая	26 мая - 6 июня	30 июня-7 июля										40		Global languages , Engineering 
+48.0	Kwangwoon University		3600$		"TOEFL iBT 71 / IELTS 5.5 / NEW TEPS 326 or above,
+Applicants with citizenship where English is the native or
+official language
+30% of tuition fee
+TOEFL iBT 86 / IELTS 6.5 / NEW TEPS 388 50% of tuition fee
+TOEFL iBT 97 / IELTS 7.5 / NEW TEPS 438 70% of tuition fee
+TOEFL iBT 112 / IELTS 8.5 / NEW TEPS 498 80% of tuition fee"	25 сентября-11 октября 	13 ноября-29 ноября 											43		Semiconductor Systems Engineering
+49.0	Joongang Sangha University	нет англ																191		
+50.0	Suwon Catholic University	не работает сайт																188		
+51.0	Wonkwang University	 неизв насчет англ	2200$—3000$		"100% deduction of tuition fee A holder of TOPIK level 5 or higher
+60% deduction of tuition fee A holder of TOPIK level 4
+50% deduction of tuition fee A holder of TOPIK level 3"	2 декабря-6 декабря 	6 января -8 января 											38		нет точных данных
+52.0	Seoul National University of Science and Technology		2000$-4000$		"TOPIK level 4 · (Applicant for MSDE or ITM）TOEFL iBT 801) or above Level B 50% of Tuition fee 
+Level A 70% of Tuition fee · TOPIK level 5 · (Applicant for MSDE or ITM）TOEFL iBT 902) or above 
+Level B 70% of Tuition fee Level A Full Tuition fee · TOPIK level 6 · (Applicant for MSDE or ITM）
+TOEFL iBT 1003) or above Level B Full Tuition fee Level A Full Tuition fee + Full Boarding fees"	1 - 28 апреля	23 -27 июня											46		"Business and Technology
+(ITM and department of MSDE)"
+53.0	Dong-A University		3000$		" A IELTS 7.0, TOEFL iBT 90, New TEPS 428 equivalent or above  Full Tuition
+ B  IELTS 6.5, TOEFL iBT 84, New TEPS 394 equivalent or above
+ Applicant who has completed high school education in 
+countries* where their mother tongue language is English 50% of Tuition 
+ С IELTS 6.0, TOEFL iBT 77, New TEPS 360 equivalent or above   25% of Tuition
+D  IELTS 5.5, TOEFL iBT 71, New TEPS 326 equivalent or above  15% of Tuition"	24 сент-14 октбр	2 декабря-17 декабря											34		"International Business Administration
+Engineering"
+54.0	Inje University	нет англ																50		
+55.0	Chosun University	нет англ																35		
+56.0	Sangmyung University		3000$		"Academic Excellence Scholarship
+• Received admission exam score within the top 1% on the admission exam 100% of tuition
+• Received admission exam score exceeding top 1% and less than or equal to
+top 3% on the admission exam 70% of tuition
+• Received admission exam score exceeding top 3% and less than or equal to
+top 10% on the admission exam 50% of tuition
+• Received admission exam score exceeding top 10% and less than or equal
+to top 40% on the admission exam 30% of tuition
+Language Excellence Scholarship
+• Student with TOPIK Level 4 or above (Level 3 for Arts, Music & Physical
+Education majors) 70% of tuition
+• Student with TOPIK Level 3 (Level 2 for Arts, Music & Physical Education
+majors) 40% of tuition"	-	-											51		College of Global Regions
+57.0	Kyonggi University	нет англ																48		
+58.0	Kongju National University	error																49		International financial engineering 
+59.0	The Catholic University of Korea		-		-	1 марта -14 апреля	15 апреля-16 июня											26		"Department of English Literature, Language and Culture
+Department of International Studies"
+60.0	Korea University of Technology and Education		1800-2000$		GKS		July 8 - July 12											52		"School of Mechanical Engineering, School of Electrical, Electronics and Communication
+♦ Engineering, School of Computer Science and Engineering, School of Industrial 
+Management, School of Energy, Materials and Chemical Engineering, School of Design 
+and Human Engineering, School of Smart Factory Convergence."
+61.0	Soonchunhyang University	Asan	5000$		"Scholarship amount 
+TOPIK level 6- (1.400.000 KRW)
+TOPIK level 5- (1.200.000 KRW)
+TOPIK level 4-( 1.000.000 KRW)
+TOPIK level 3-( 800.000 KRW)"	26 мая - 3 июня	3 - 9 июля											53		"Business adminstration
+International trade and commerce 
+Computer science and Engineering 
+Economics and Finance"
+62.0	Handong Global University	Pohang	"1 семестр- 3.841.000 ( 2770$)
+2 семестр- 3.661.000 (2640$)"		" KGSP/GKS
+ Handog Cornerstone scholarship
+Presidential scholarship
+Outstanding international students Entrance scholarship for international students: 
+Topik level 6 - 100% of tuition scholarship 
+Topik level 5 - 80% of tuition scholarship 
+Topik level 4 - 50% of tuition scholarship 
+Topik level 3 - 30% of tuition scholarship 
+50% of tuition scholarship - TOEFL iBT 85 and above, IELTS level 6.0 and above "	1 августа - 15 сентября 	1 февраля-15 марта											54		"Construction Engineering
+Psychology
+Economics
+English (специализация в области лингвистики, литературы, TESOL, перевода)
+Global Convergence Studies
+Global Management
+ICT Convergence
+Information Technology
+Life Science
+U.S. & International Law
+Urban and Environmental Engineering, computer science "
+63.0	Changwon National University	Changwon	3000$		"Scholarships for International Students
+Entrance Scholarship (Freshmen/Transfer):
+   TOPIK 6:100% of Tuition Fee 2
+   - TOPIK 5:100% (Freshmen) / 50% (Transfer) of Tuition Fee 2
+   - TOPIK 4:50% of Tuition Fee 2
+Academic Excellence Scholarship:
+   - Awarded to top 50% of students based on: GPA (70%) + TOPIK (30%)  
+Special Scholarships:
+  Emergency Support:Full tuition waiver for crises (war, disasters).  TOPIK Scholarship: TOPIK 6: 450,000 KRW, TOPIK 5: 350,000 KRW, TOPIK 4: 250,000 KRW
+English Proficiency Awards:TOEFL iBT 85+/IELTS 6.0+:50% of Tuition Fee 2 (if no TOPIK).  "	1 мая-14 мая												55		"Engineering & Technology:Computer Engineering, Electrical Engineering, Smart Ocean Mobility Engineering, Aerospace Engineering 
+- Business & Economics: International Trade, Business Administration, Accounting
+- Humanities:English Language & Literature, International Relations
+- Interdisciplinary:AI Convergence Engineering, Energy Chemical Engineering"
+64.0	Catholic University of Daegu	Gyeongsan																56		
+65.0	Daegu University	Daegu	2700$ - 3700$		"GKS
+Entrance Scholarships: TOPIK Level 6+ High GPA- 100% tuition waiver (first semester)
+Academic Excellence Scholarships: TOPIK 6 +GPA 4.0 100% tuition waiver + free dormitory (from 2nd semester)
+Partial Scholarships 
+-TOPIK Level 5 -70% tuition waiver
+- IELTS 6.5+/TOEFL 90+ - 50% tuition waiver"	1-30 ноября 	1-31 мая											57		"College of Engineering
+- Computer Science & Engineering (AI, Big Data, Software)  
+- Electrical & Electronic Engineering  
+- Mechanical Engineering
+- Smart Mobility Engineering
+College of Business & Economics 
+- International Business Administration
+- Global Finance & Accounting
+College of Liberal Arts & Social Sciences
+  - International Relations(Politics, Diplomacy)  
+Interdisciplinary Programs  
+- Convergence Technology (AI + Engineering)  
+- Global Leadership (Business + Language)  "
+66.0	Dongseo University	Busan	2900$- 3900$		"GKS
+DSU President's Scholarship: 100% tuition waiver for first semester
+Requirements: TOPIK 5+ or IELTS 6.5+ with outstanding academic background
+Academic Excellence Scholarship: GPA 4.0+: 70% tuition reduction
+GPA 3.5-3.99: 50% reduction
+GPA 3.0-3.49: 30% reduction
+Language Proficiency Scholarships: TOPIK 6: 50% reduction
+TOPIK 5: 30% reduction
+IELTS 6.5+/TOEFL 90+: 30% reduction.International students may receive scholarships based on merit and need. These range from full tuition with
+ housing to partial tuition scholarship of 100%, 50%, 40% or 30%. Assessments are made on a
+ case-by-case basis."	до 30 ноября	до 31 мая											58		"Global School of Media & Communications
+ Digital Content (Game Development, Animation, VFX)
+ Film & Video Production
+Advertising & PR
+International College
+International Business Administration
+Computer Science & Engineering
+ AI & Big Data Engineering"
+67.0	Jeju National University	Jeju	2400$- 3200$		"A Grade International
+Student (Full tuition waiver) New Student Awarded to 8.5% of the total number of international students and whо old TOPIK level 5 or higher at the date of the scholarship selection
+date
+E Grade International Student
+(20% Tuition waiver) New Student Students who hold TOPIK Level 3 or higher at the date of the
+scholarship selection date Transfer Student Students who hold TOPIK Level 4 or higher at the date of the
+scholarship selection date
+C Grade International Student (50% of Tuition Fees Provided)
+New Student Among the new students in the Global Open Major, excluding A Grade
+International Student scholarship recipients, those who excel in the
+entrance examination process will be considered for scholarships.
+- The number of scholarship recipients will be assigned based on the
+number of enrolled students (2 to 5 recipients)."	"осенний набор 
+1-30 ноября
+весенний набор
+1-30 июня"	"1-28 февраля
+1-31 августа"											59		"College of Business & Economics
+International Business Administration Global Tourism Management
+College of Engineering
+Computer Science & Engineering 
+Electrical Engineering  
+College of Social Sciences 
+International Relations
+Global Communication"
+68.0	Kyungnam University	Changwon 	4100$-6000$		"International Student Admission Scholarship:
+A:All International Admission FreshmenㆍReduction of 50% of tuition fee for four years ㆍPrevious semester GPA C0 or above only
+B:TOPIK Level 4 or above	ㆍReduction of 70% of tuition fee (The semester of admission) ㆍOnly available for freshman admission
+C:TOEFL iBT 90
+ㆍIELTS 6.5 or above	ㆍReduction of 100% of tuition fee (The semester of admission)
+D:TOEFL iBT 85
+ㆍIELTS 6.0 or above	ㆍReduction of 70% of tuition fee (The semester of admission
+E: TOEFL iBT 80
+IELTS 5.5 or above	ㆍReduction of 50% of tuition fee (The semester of admission)
+International Student
+TOPIK Scholarship:
+A:ㆍAfter admission, upgrade TOPIK level to Level 6ㆍ1,000,000 KRW
+B:ㆍAfter admission, upgrade TOPIK level to Level 5ㆍ500,000 KRW
+C: ㆍAfter admission, upgrade TOPIK level to Level 4	ㆍ300,000
+"	15мая- 5 июня	16 июня - 4 июля											60		"International Studies
+Business Administration
+Computer Science and Engineering
+Hotel and Tourism Management"
+69.0	Hoseo University	 Asan, Chungcheongnam	5500$-7500$		"Scholarships for International Students at Hoseo University
+KGSP/GKS
+4.3 and above 100% Topik level 6 or higher
+4.0 and above 70% Topik level 5 or higher 3.0 and above 50%
+Topik level 4 (Arts and physical education level 3) or higher 2.5 and above 40%
+Topik level 3 (Arts and physical education level 2) or
+higher Less than 2.5 30% Regular Topik holder
+Regular Topik non-holder 2.5 and above 30% - Less than 2.5 20%
+"	12 -23 мая	16 - 27 июня											61		"College of Humanities & Social Sciences
+Global Commerce
+Business Administration
+College of Engineering & AI
+Big Data & AI
+Big Data Analysis Track  
+AI Application Business Track  
+Computer Engineering 
+Artificial Intelligence Track  Information Security Track  International Studies"
+70.0	Korea Maritime and Ocean University	Yeongdo-gu in Busan	2800$ - 3800$		"Freshmen (1st semester after enrollment)
+· TOPIK Level 6 or TOEFL iBT 100 or higher or IELTS Band 7.0 or higher 100% of
+Tuition
+· TOPIK Level 5 or TOEFL iBT 90 or higher or IELTS Band 6.5 or higher 80% of
+Tuition
+· TOPIK Level 4 or TOEFL iBT 80 or higher or IELTS Band 6.0 or higher 40% of
+Tuition
+· Those who completed more than 2 semesters of KMOU Korean
+Language Course and recommended by Director of Office for International Affairs 20% of Tuition"	1 -31 октября	1-30 апреля											62		"International Studies 
+Shipping Management
+Maritime Law
+Maritime Administration
+International Trade and Economics
+International Commerce
+English Language and Literature
+East Asian Studies
+European Studies
+International Maritime Affairs and Logistics"
+71.0	Busan University of Foreign Studies	Busan	5200$ - 6200$		"Freshman &3rd-YearTransfer Students
+-Applicants without a TOPIK, IELTS, or TOEFL official score
+First semester: 20% tuition reduction
+- Applicants admitted through a sister university agreement or
+ institutional partnership
+- Applicants who have completed the regular or short-term Korean
+language training program at the BUFS Korean Language & Culture
+Education Center - Applicants holding F1, F2, F4, or F5 visas (with supporting documents)
+First semester:
+30% tuition reduction
+- Applicants with TOPIK Level 3 or IELTS 5.5 or TOEFL 53
+First semester:
+30% tuition waiver - Applicants with TOPIK Level 4 or IELTS 6.0 or TOEFL 69
+First semester:
+40% tuition waiver - Applicants with TOPIK Level 5 or IELTS 6.5 or TOEFL 86 or higher - Applicants whose native language or second language is English.
+First semester:
+50% tuition waiver
+- Applicants with TOPIK Level 6 or IELTS 7.0 or TOEFL 98 or higher
+First semester:
+60% tuition waiver. GKS"	8-12 cентября 	26 мая - 13 июня											63		"Electronic Robotics Engineering
+Global Business Administration
+Global Studies. Computer Science & Engineering. English Linguistics & Literature.Tourism & Hospitality Management"
+72.0	Sungshin University	уже был																64		
+73.0	Sun Moon University	Asan	4000$- 6000$		"Scholarship
+Any foreign applicant paying for their own expenses (excluding Korean Government Scholars)
+• Applying with a qualified English proficiency test score (TOEFL 530 (CBT 197, IBT 71), IELTS 5.5, TEPS 601 (NEW TEPS 327), CEFR B2) / has obtained a nationally recognized English proficiency test with a qualified score
+• Passer of Sun Moon University’sKorean Language Test
+TOPIK 3- 50% tuition fee 
+TOPIK 4 - 55% tuition fee 
+TOPIK 5 - 80% tuition fee 
+TOPIK 6 - 100% tuition fee 
+Applied using English Qualifications -50%
+Passer of SUN MOON University's Korean Test, completed Sejeong Hakdang Intermediate Level 1 or higher, completed Korea Immigration and Integration Program Level 3 or higher, or obtained a score of 61 or higher on the assessment test - 40%"	1- 30 сентября	1-30 апреля 	1-20 июня										65		"Major in International business and trade
+Computer science and Engineering"
+74.0	Kumoh National University of Technology	Gumi, Gyeongsangbuk-do	5400$ - 6400$ 		"Gks
+Scholarship Programs at KIT  Admission Scholarships
+- **General Admission Scholarship: 55% tuition waiver for all newly enrolled international students
+- Excellence Scholarship: 25% tuition waiver for students who either complete KIT's Korean language program (minimum 1 semester) or achieve TOPIK Level 5 or higher
+2. Academic Performance Scholarships
+- The Best Scholarship: Full 100% tuition coverage awarded to top-performing international students based on yearly academic ranking
+- Excellence Award: 80% tuition waiver for students maintaining a GPA of 1.75 or higher in the previous semester
+3. Work-Study Opportunities
+- Working Scholarship: For students employed on-campus who maintain a GPA of 1.6 or higher
+- Provides hourly wages at minimum wage rate
+- Available regardless of credit load requirements"	2 октября- 8 ноября	12 мая- 6 июня 											66		"Computer Science & Engineering
+Mechanical Engineering
+Global Business & Technology Management"
+75.0	Kunsan National University	Gunsan	3240$- 4440$		"Scholarship
+The scholarship can be granted up to the 8th semester. (For transfer student, up to the 4th semester)
+Newcomer Scholarship
+- Full tuition: Newcomer student having TOPIK Level 4 or higher  
+- 300,000 KRW: Newcomer student having TOPIK Level 3  
+- -: Newcomer student not having TOPIK Level 3 or lower  
+1st year TOPIK Level 3 or higher, 2nd grade or higher TOPIK Level 4 or higher  
+ If the TOPIK standard are not met, all scholarship conditions below are met.  
+- Completion of more than 300 hours of Korean Language Course per semester designated by the IALE.  
+Except for the departments that conduct classes in English (Includes English track verification completion upon admission) "	23-27 июня	сентябрь- ноябрь 											67		"Computer Science & Information Engineering
+Global Business
+International Trade
+Business Administration"
+76.0	Kyungsung University	Busan	3500$-5000$		"Tuition Fee Waiver        Korean and English Tracks        100%
+(Special Selected Scholar)        
+- A special selected scholar by overseas sister university based on the MOU/agreement
+
+- A special selected scholar by Yayasan Kyungsung Indonesia based on his/her qualified academic performance 
+during the language training period (selects within 10% of Yayasan Kyungsung Indonesia from the number of student admission)
+
+- A special selected scholar based on the highest score of the admission evaluation process among a holder of
+ at least Test of Proficiency in Korean (TOPIK) level 5 for Korean Track admission, a holder of at least TOEFL 
+iBT 79 or at least IELTS 6.0 or holds the nationality of a country that uses English as its mother tongue or 
+uses English as a legal official language for English Track admission
+
+Among a special selected scholar
+who qualifies for one of the three criteria shall be finally chosen, and a limited number of
+ applicant(s) per semester shall be finally chosen based on the current set budget.
+
+※ If there is no qualified student, no one is finally selected
+
+English Track        50%        A holder of at least TOEFL iBT 104 or at least IELTS 7.5        
+waiver’ section
+40%        A holder of at least TOEFL iBT 95 or at least IELTS 7.0
+30%        - A holder of at least TOEFL iBT 71 or at least
+IELTS 5.5 - A student of English-speaking foreign nationality
+Admission
+Fee
+Waiver        First-Year
+Students        Exemption of
+Admission Fee        
+- National Institute for International Education (NIIED) Global Korea Scholarship (GKS) Scholars
+
+- A special selected scholar selected by a sister university
+
+"	1-15 ноября	1-30 апреля 											68		"School/Department School of Global Studies
+Major Global Business Administration
+School/Department School of Global Studies
+Major Global Hospitality Management
+School/Department School of Global Studies
+Major Global Korean Studies
+School/Department School of Global Engineering Studies
+Major Global Mechanical Design Engineering
+School/Department School of Global Engineering Studies
+Major Global IT Engineering"
+77.0	Sunchon National University	Suncheon,Jeollanam-do	3000$-4500$		"A. Scholarship for SCNU Korean Language School completed applicant
+1) Student who got the highest score in the last semester of Korean Language School among Freshmen/Transfer applicants who have completed SCNU Korean Language School and has higher than TOPIK level 3: full amount of tuition fee 1 and tuition fee 2
+2) Freshmen/Transfer applicants who completed SCNU Korean Language School and have higher than TOPIK level 2: full amount of tuition fee 2
+3) Freshmen/Transfer applicants who have completed SCNU Korean Language School: full amount of tuition fee1
+Scholarship selection criteria and scholarship benefits may change.
+B. Scholarship for Freshmen/Transfer(Applicants who didn't complete SCNU Korean Language School)
+1) Higher than TOPIK Level 4: full amount of tuition fee 1 and tuition fee 2
+2) Higher than TOPIK Level 2: full amount of tuituion fee 1
+C. For international students, scholarships will be given according to the academic score
+1) Average GPA for the previous semester is higher than 4.00: full amount of tuition fee 1 and tuition fee 2
+2) Average GPA for the previous semester is higher than 3.75: full amount of tuition fee 2
+3) Average GPA for the previous semester is higher than 3.40: 50% of tuition fee 2
+4) Average GPA for the previous semester is higher than 3.00: full amount of tuition fee 1
+Common requirement: take more than 12 credits for the previous semester"	1-15 ноября	21 апреля - 16 мая											69		"Computer Engineering
+Business Administration
+International Trade"
+78.0	Gwangju University	Gwangju	4200$-5500$		"Scholarship for International student
+Scholarships ProvisionDormitory maintenance fee	Enrollment fee	tuitionfee
+TOPIK lvl.3	exemption	100%	25%
+TOPIK lvl.4	exemption100%	40%
+TOPIK lvl.4	exemption100%	45%
+TOPIK lvl.5	exemption100%	50%
+Academic Scholarshipgrade	scholarship	
+grade 3.0 scholarship 100,000
+above 3.5 scholarship 300,000
+above 4.0 scholarship 600,000
+4.5 scholarship 1, 000,000
+only pay by grade not by a scholastic year"	2025-03-02 00:00:00	2025-09-01 00:00:00											70		"College of Management: 
+Dept. of International Logistics & Trade
+Dept. of Tourism Business Management
+Hotel Management
+Dept. of Aviation Service
+College of Engineering Computer Engineering 
+Convergence Software
+Electrical Engineering
+Computer Information Warfare Studies
+College of Culture and Art
+Visual Communication Design
+Industrial Design
+Photography, Image & Drone "
+79.0	Dong-Eui University	нет англ																71		
+80.0	Korean National University of Arts	нет англ				5-15 мая	21-23 июля	25-27 августа 										72		
+81.0	Silla University	Busan	5000$-6500$		"Foreign student scholarship Students who register proper credits (more than 12credits in 1st,2nd,3rd year 
+or 6 credits in 4th year) and have over 2.5 GPA and 60% of attendance 15% of tuition waiver 
+* Regular semester only"	Fall (September start): April 30	-	Spring (March/feb term): October 31										73		Department of K-Culture
+82.0	Korea Aerospace University	Goyang	4 900 – 6 350 USD 		"Scholarship for Excellence in English Language Proficiency (English track)
+Type Benefit
+TOEFL iBT 96 or higher
+or IELTS 7.0 or higher 100% reduction in the first tuition
+TOEFL iBT 90 or higher
+or IELTS 6.5 or higher 50% reduction in the first tuition
+TOEFL iBT 81 or higher
+or IELTS 6.0 or higher 20% reduction in the first tuition"	до 16 октября 2024	до 3 декабря 2024	до 10 января 2025		TOEFL iBT ≥ 71, IELTS ≥ 5.5		(Personal Statement)		60 USD				77		"School of Global Aviation Studies:
+Service Management
+Air Transportation and Logistics 
+Aviation Management 
+Aviation Business Administration Major                                                                              •	Aerospace Engineering
+•	Mechanical Engineering
+•	Aircraft System Engineering
+•	Electronics & Avionics Engineering
+•	Information & Telecommunication Engineering
+•	Software / Computer Engineering
+•	Materials Engineering
+
+"
+83.0	Korea National University of Transportation	нет англ																75		
+84.0	Cheongju University	нет англ																76		
+85.0	Jeonju University	Jeonju‑si	"
+6 020$ - 6 700$"		"Freshman
+40% tuition fee discount on the first semester for those who graduated from
+Jeonju University with GPA 3.0 out of 4.5 or graduated Korean Language center
+and acquired TOPIK 3 or above, 70% for TOPIK level 5, 80% for TOPIK level 6
+30% tuition fee discount on the first semester for those who graduated
+from universities with GPA 3.0 out of 4.5 or above in or outside of Korea
+and acquired TOPIK 3 or above, 70% for TOPIK level 5, 80% for TOPIK level 6
+30% tuition fee discount on the first semester for those who graduated from
+universities with GPA 3.0 out of 4.5 or above in or outside of Korea
+and acquired TOEFL IBT 80 or above, an IELTS 5.5 or above or a New TEPS of 326
+or above,
+"	с 2 по 11 апреля 2025 года	с 28 мая по 6 июня 2025 года			TOEFL iBT 80+, IELTS 6.0+								77		"Hotel Management
+English Language and Literature                                                                                                             •	Department of English Language and Literature
+•	Department of Business Administration
+•	Creative Arts Psychotherapy
+•	International Hospitality Management
+"
+86.0	Duksung Women's University	нет англ				14-25 октября	11- 22 ноября 											78		
+87.0	Pai Chai University	Daejeon 	$5,000–$6,300 USD		"Стипендия за достижения: до ₩1,288,000 (~$1,000 USD) за семестр, в зависимости от GPA: GPA выше 4.0: 40% скидка на обучение, 
+GPA от 3.5 до 3.99: 35% скидка,
+GPA от 1.91 до 3.49: 30% скидка. 
+"	6- 14 января	5 -11 июня 	8- 12 сентября		IELTS: от 6.5.		Требуется эссе или мотивационное письмо (Statement of Purpose)						79		"•	Korean Language and Literature
+•	English Language and Literature
+•	Chinese Language and Culture
+•	History and Philosophy
+•	Political Science and Diplomacy
+•	Psychology
+•	Sociology
+•	Media and Communications
+"
+88.0	Hanbat National University	Daejeon	"Годовая плата: от ₩4,200,000 (~$3,300 USD)
+•  Семестровая плата: от ₩2,100,000 (~$1,650 USD)
+"		"New Students
+Level A: Students with TOPIK Level 5 or higher Full tuition discount for 
+the first semester
+Level B:  Students with TOPIK Level 4 or higher 50% discount on tuition 
+for the first semester
+Level C: Students with TOPIK Level 3 or higher 30% discount on tuition 
+for the first semester"	(Spring Semester) обычно с ноября по декабрь предыдущего года		(Fall Semester) обычно с мая по июнь того же года 		Минимальный балл IELTS: 6.0								80		"Engineering,                                                                                                                                                                                          •  College of Engineering
+•  College of Natural Sciences
+•  College of Business and Economics
+•  College of Humanities and Social Sciences
+•  College of Arts and Physical Education
+•  College of Information and Communication Engineering
+•  College of Energy and Environmental Engineering
+"
+89.0	Sahmyook University	Seoul 	$6,300 до $8,000		"Freshman 
+TOPIK Scholarships:
+TOPIK level 6: 100% of tuition for 4 years
+TOPIK level 5: 100% of tution for 1 year 
+TOPIK level 4: 50% of tuition for 1 year 
+TOPIK level 3: 24% of tuition for 1 semester 
+English Track Scholarships: 
+ TOEFL IBT 71, IELTS 5.5, CEFR B2, TEPS 600, NEW TEPS 327 or higher upon admission
+50% of tuition for 1 semester.
+SU Korean Language Institute Scholarship:
+Those who studied at least 1 year at Sahmyook University Korean Language Institute 30% of tuition for 1 semester."	Intake Period: May–June 2025		Intake Period: September–November 2024		IELTS от 5.5–6.0, TOEFL iBT от 70–80 баллов		личное заявление / мотивационное письмо				https://www.syu.ac.kr/eng/academics/aca-undergraduate/		81		"Business Administration,
+Global Culture & Arts Convergence                                                                                   -Department of English Studies<br>- Department of Business Administration<br>- Department of Early Childhood Education<br>- Department of Global Korean Studies<br>- Division of Aviation Tourism & Foreign Language                                        -Department of Chemistry & Life Science<br>- Department of Environmental Design & Horticulture<br>- Department of Animal Life Resources<br>- Department of Integrative Biotechnology                                                                                                                        -Department of Physical Therapy<br>- Department of Food & Nutrition<br>- Department of Social Welfare<br>- Department of Public Health<br>- Department of Counseling Psychology<br>- Department of Health & Human Performance                              -Division of Computer Science and Engineering<br>- Department of AI Informatics"
+90.0	Hansung University	Seoul 	5 700 – 7 800 USD в год		"
+TOPIK Level 6: 100% tuition waiver (first semester only).  
+TOPIK Level 5: 80% waiver.  
+TOPIK Level 4: 50% waiver.  
+TOPIK Level 3: 30% waiver.  
+Hansung Korean Language Course Graduates: 50% waiver (must complete 1 year/4 semesters)"	14 апреля- 2 мая	9 - 20 июня											82		"
+•  Korean Language & Culture Education
+•  Global K Business
+•  Media & Entertainment (включая Time based Media)
+•  Fashion Beauty Creation
+•  SW Convergence (софт инжиниринг, цифровая конвергенция)
+"
+91.0	Seokyeong University	Seoul	 8 300–11 600 USD		"Admission Scholarships: 30% to 60% tuition waiver for first semester for international students
+
+Academic Scholarships: 10% to 80% tuition waiver for subsequent semesters based on academic
+ performance
+
+Special Scholarships for Chinese and Korean Students: 50% to 100% tuition waiver at admission;
+ 10% to 20% academic scholarships"	12 мая – 30 мая 2025				IELTS 5.5-6.0								83		"International Business Language                                                                                                                                                  •  Korean Language & Literature
+•  International Business Language (двухъязычная программа — английский + дополнительный язык: японский, китайский, русский или французский)
+•  Philosophy
+•  Child Studies
+•  Public Human Resources (Law / Public Administration)
+•  Economics and Finance
+•  Business Administration
+•  Global Business Administration (двухдипломная программа совместно с SNHU, США — первые два года на английском, затем профильные курсы на английском)
+•  Military Studies
+"
+92.0	Semyung University		4426-5572		"Undergraduate Program - 30% Waiver of Tuition
+ACE Global Scholarship Program - 100% waiver of Tuition and Housing Fee
+Master's / Doctoral Program - 50% of Tuition - 2 years
+Korean Government Scholarship Program(Bachelor's Degree) - 100% waiver of Tuition, allowance, Insurance, Round-trip ticket and Housing Free"	September 23 to October 25, 2024	February 5 to March 31, 2025											159		"Business Administration
+Tourism
+International Trade
+Hospitality and Tourism Management
+Computer Science / Software Engineering
+Nursing"
+93.0	Woosong University		$3,840-$12,334		"Scholarships are granted on a case-by-case basis depending on the applicant’s English level, academic standing, and extracurricular activities. Admission scholarships are evaluated and determined during the application process. Admission scholarships are given for your first semester and applied to tuition only. Undergraduate admission scholarships typically range from 30% 70% of the cost of tuition, while eligible graduate students can receive admission scholarships of 30% of tuition.
+
+After your first semester, students are eligible for a Merit Scholarship.
+
+Merit Scholarships are available after your first semester and range from 30% to 100%. For Woosong Main Campus Graduate School Program, merit-based scholarships range from 20% to 30%. Both international and Korean students enrolled in our international programs are held to the same academic standards where all applicants must meet the following requirements to qualify for a merit-based scholarship:
+
+Earn the minimum required credits over the previous semester
+at least 15 credit hours for Bachelors & at least 9 credit hours for Masters and Ph.D. (MBA 12 credit hours)
+Receive no “F” letter grades
+All merit-based scholarships are determined by a students’ GPA (previous semester Grade Point Average) or their CGPA (Cumulative Grade Point Average of all semesters), whichever is higher. Merit-Based scholarships are computed and applied to tuition automatically."	"Spring Intake: January 10
+
+Fall Intake: July 11"												85		"Business Administration (BBA)
+Global Management
+Hotel Management
+K-Pop Arts Management
+AI & Big Data
+Artificial intelligence
+IDegree
+Global Interdisciplinary Studies
+K-Beauty Design
+Media and Communication Arts
+Culinary Arts
+Restaurant and Entrepreneurship
+Global Railroad"
+94.0	Daejin University		4750		"Скидка за 1 семестр обучения на англ трек - 50% для всех студентов
+
+Starting from Second semester,
+Scholarship shall depend on the
+grade(GPA) of previous semester.
+Scholarship ranges from 10% to
+100%"		"Осень 2025: подача заявлений 
+до 31 мая 2025 года; 
+начало семестра — 1 сентября 2025 года."											93		"
+
+College of Global Industry and Commerce:
+Business Administration
+"
+95.0	University of Science and Technology Korea	Daejeon	2 000USD				16 апреля-7 мая 2025г.											87		"•  Mechanical Engineering
+•  Electrical Engineering
+•  Civil Engineering
+•  Chemical Engineering
+•  Computer Science and Engineering
+•  Materials Science and Engineering
+•  Environmental Engineering
+•  Nanotechnology
+•  Energy Engineering
+•  Biomedical Engineering
+•  Physics
+•  Chemistry
+•  Life Sciences / Biotechnology
+•  Robotics Engineering
+•  Information and Communication Engineering
+•  Nuclear Engineering
+•  Industrial Engineering
+"
+96.0	Kangnam University	Gangnam-ro	от 6000 USD в год		"English-language programs require at least 80 TOEFL or 6.0 IELTS (less often 5.5). To study in Korean, 
+you need TOPIC level 3 or higher. Later, to graduate from the university, the student will need to 
+demonstrate at least level 4.
+IELTS 5.5 — для учебы на английском"	конец октября — начало ноября	Осенний семестр (сентябрь)											88		"•  Department of English Language and Literature
+•  Department of Korean Language and Literature
+•  Department of Library and Information Science
+•  Department of Philosophy
+•  Department of Theology
+•  Department of International Studies
+•  Department of International Trade
+•  Department of Business Administration
+•  Department of International Trade
+•  Department of Economics
+•  Department of Tax Administration
+"
+97.0	CHA University	Pocheon	"CHA Premium Scholarship: Полное освобождение от оплаты обучения и поддержка на проживание (необходим средний балл GPA 3.5 и выше).
+
+TOPIK Level 4: 50% скидка на обучение в первом семестре.
+
+TOPIK Level 5: 70% скидка на обучение в первом семестре.
+
+TOPIK Level 6: Полное освобождение от оплаты обучения в первом семестре.
+
+Дополнительные скидки: В зависимости от академической успеваемости в последующих семестрах."			сентябрь — ноябрь	май — июнь									admissions@cha.ac.kr		89		"Nursing Practice English
+
+Global Nursing Simulation
+
+International Nursing
+
+Global Nursing Simulation"
+98.0	The University of Suwon	Hwaseong	4 641 USD в год		"1. Admission Scholarship
+Scholarship Type: Partial Funding
+Degrees Offered : Bachelor's
+Scholarship Coverage: 20% to 60% of tuition fees"		нет осеннего			IELTS ≥ 5.5, TOEFL ≥ 80								90		"Bachelor of Arts in Innovation & Entrepreneurship                                                                                                                  Division of Interdisciplinary Studies (English Track)
+•	Innovation & Entrepreneurship
+Humanities & Area Studies
+•	English Language & Literature
+•	French Language & Literature
+•	Russian Language & Literature (Area Studies)
+•	Japanese Language & Literature
+•	Chinese Language & Literature
+•	Interdisciplinary Studies (BA in Interdisciplinary Studies) i
+Law, Governance & International Affairs
+•	Law
+•	Public Administration
+•	International Development Cooperation
+•	Economics & Finance
+•	Business Administration
+•	Accounting
+•	Global Business
+•	Hotel Management / Tourism Management / Restaurant Management
+
+
+"
+99.0	Kosin University	Busan	≈ 4 300–4 400 USD /год		Kosin University may offer scholarships and financial aid to international students based  academic merit, financial need, or other criteria. It's important for prospective students to inquire	начало марта	в сентябре			TOEFL или IELTS (минимум B2 / IELTS ≥ 5.5–6.0 / TOEFL ≥ 71								91		"Theology
+Medicine (Premedicine, Biomedical Science)
+Nursing
+Psychology
+Social Work
+IT Business, Visual Design, Advertising and Public Relations, Chemistry & Advanced Materials и др.  .•  Advertising and Publicity
+•  Arts and Humanities
+•  Child Care and Development
+•  Chinese
+•  Computer Science
+•  English
+•  Health Administration
+•  Information Sciences
+•  Literature
+•  Mathematics and Computer Science
+•  Media Studies
+•  Public Relations
+•  Rehabilitation and Therapy
+•  Social Welfare
+
+"
+100.0	Woosuk University	Wanju‑gun	$5,800–$8,800 USD		"1. Woosuk Scholarship
+Scholarship Type: Partial Funding
+Degrees Offered : Bachelor's, Master's, and PhD
+Scholarship Coverage: 20% to 60% of tuition fees"	1 сентября по 30 ноября предыдущего года	3-10 января 2025г			IELTS: 5.5 – 6.0								93		"Hospitality Management
+Digital Media & Communication
+Engineering in Technology Studies
+Restaurant & Entrepreneurship, Culinary Arts
+Artificial Intelligence, Cognitive Science & Data Science
+**Business Administration (AACSB)                                                                                                                                                                             College of Engineering and Technology:
+•	Mechanical Engineering
+•	Electrical Engineering
+•	Civil Engineering
+•	Computer Engineering
+•	Environmental Engineering
+•	Architectural Engineering
+College of Natural Sciences:
+•	Applied Chemistry
+•	Biology
+•	Food Science and Technology
+•	Environmental Science
+College of Humanities and Social Sciences:
+•	Business Administration
+•	International Trade
+•	English Language and Literature
+•	Korean Language and Literature
+•	Media and Communication
+•	Tourism Management
+"
+101.0	Gangneung-Wonju National University	Gangneung/ Wonju	≈ 1 338 USD / 2 091 USD		"Gwangju University is making its greatest effort to ensure that students have opportunities
+to receive  many forms of scholarships. A student with TOPIK                                                                                                                            TOPIK уровень 5 и выше
+— Полное освобождение от платы за обучение (100% стипендия).
+
+TOPIK уровень 4
+— Скидка 80% на оплату обучения.
+
+TOPIK уровень 2
+— Скидка 20% на оплату обучения."	середина января	"	середина июля"			"IELTS: Минимум 5.5
+
+TOEFL iBT: Минимум 71"								95		"•	Department of Korean Language and Literature
+•	Department of English Language and Literature
+•	Department of German Language and Literature
+•	Department of Chinese Language and Literature
+•	Department of Japanology
+•	Department of Philosophy
+•	Department of History
+•	Division of Teacher 
+🧑‍💼 College of Social Sciences (Факультет социальных наук)
+•	Department of Business Administration
+•	Department of Accounting
+•	Department of Tourism Management
+•	Department of Economics
+•	Department of International Trade
+•	Department of International Commerce and Area Studies
+•	Department of Urban Planning and Real Estate
+•	Department of Law
+•	Department of Local Government Administration
+
+"
+102.0	Korea National University of Education	Cheongju	2 460–3 340 долларов США в год		"Name: GlobalScholarships.com $3,000 Scholarship
+Eligibility: International students planning to pursue their studies outside their home country.
+Scholarship Value: $3,000
+Application Deadline: May 31st, 2026"													96		"Korean Language Education
+Ethics Education
+Geography Education
+Computer Education
+Biology Education
+Music Education
+Fine Arts Education
+Early Childhood Education"
+103.0	Dongyang University	Yeongju	4 000 000 вон		"TOPIK 2 — скидка 20%
+
+TOPIK 3 — скидка 30%
+
+TOPIK 4–6 — скидка 40%
+Стоимость после скидки:
+
+Инженерные специальности: базовая плата 3 320 000 KRW, скидки 664 000 / 996 000 / 1 328 000 KRW соответственно 
+
+
+Гуманитарные и социальные науки: базовая плата 3 030 000 KRW, скидки 606 000 / 909 000 / 1 212 000 KRW"	сентябрь 2025	октябрь 2025			5.5 – 6.0								97		"Division of Global Leadership
+Public Administration
+Media and Communication
+Faculty of Business Administration
+Economics
+Management              
+BBA in Accounting & Auditing	
+B.Tech in Electrical Engineering                                                                                                 International Commerce and English                                                                                                  Business Administration, Management, Marketing, Hotel & Tourism, Information Technology"
+104.0	Tech University of Korea	Siheung	~ 2,280 USD ≈ 6,260 USD в год		"TOPIK 6 / TOEFL iBT 105 / IELTS 8.0 → 50 % скидка
+
+TOPIK 5 / TOEFL iBT 90 / IELTS 7.0 → 40 % скидка
+
+TOPIK 4 / TOEFL iBT 85 / IELTS 6.0 → 30 % скидка
+
+TOPIK 3 / TOEFL iBT 80 / IELTS 5.5 → 20 % скидка"	Конец октября – начало ноября (примерно 25 окт – 5 нояб)	Конец февраля – начало марта (примерно 25 фев – 10 марта)			Английский — минимум IELTS 5.5 или TOEFL iBT 80								98		"Global Business Administration	 
+Global Korean Studies	 
+Tech Management & Innovation	 
+Artificial Intelligence (AI) & Computer Engineering	 
+Mechanical Engineering	 
+Automotive Engineering 
+Electrical Engineering	 
+Industrial Engineering	 
+Culture Design"
+105.0	Konyang University	Namyangju/Cheongju	от 6,500 до 7,100 USD		"Уровень TOPIK        Размер скидки на обучение
+TOPIK 3                             50% скидка
+TOPIK 4                              70% скидка
+TOPIK 5 или 6                    80% скидка"	Ориентировочно октябрь — ноябрь	"Февраль — март	"	       Май — июнь		для английских программ — IELTS 5.5 / TOEFL iBT 80 минимум								99		"Medicine	 
+Pharmacy	 
+Nursing	 
+Business Administration	 
+Computer Science & Engineering	 
+Mechanical Engineering	 
+Electrical Engineering	 
+Information Technology	 
+Environmental Engineering	 
+Social Welfare	 
+Psychology	 
+Architecture	 
+Design"
+106.0	Mokwon University	Daejeon	4,900–6,200 USD в год		"TOPIK 3 → 20 %, TOPIK 4 → 30 %, TOPIK 5 → 40 %,
+
+При GPA ≥ 2.5 + TOPIK 4 → 40 %, GPA ≥ 3.5 + TOPIK 5 → до 65 %"	"Уровень обучения	                Срок подачи заявок
+Бакалавриат (осень 2025)	15 июля 2025 года
+Бакалавриат (весна 2026)	15 ноября 2025 года"												100		"Global Business English Major (в рамках Department of Global Communication)  
+
+Global Cultural Contents Major (в рамках Department of Global Communication)  
+Department of English Education  
+Department of English Language and Literature                                                                                                                                  Korean Language and Literature  
+English Language and Literature  
+History 
+Sociology  
+Psychology  
+Mathematics  
+Physics  
+Chemistry  
+Biology  
+Mechanical Engineering  
+Electrical Engineering  
+Computer Science  
+Business Administration  
+Accounting  
+Theology "
+107.0	Hanseo University	Seosan	$6,400–$8,700 в год.		"Academic Excellence Scholarship — скидка от 30% до 70% за высокие академические результаты.
+
+Language Proficiency Scholarship — скидки для студентов с высоким уровнем владения корейским языком (TOPIK) или английским (IELTS/TOEFL).
+
+Need-Based Scholarship — помощь студентам с финансовыми трудностями."	До 30 июня 2025 года	До 30 ноября 2025 года			не ниже IELTS 5.5 или TOEFL iBT 80.								101		"Aeronautical Industrial Engineering
+
+Bachelor in Air Transportation and Logistics
+
+Helicopter Control                                                                                                                                                School of Aviation Multidisciplinary
+Department of Foreign Languages & International Cooperation
+Aviation-related Majors
+Aerospace Software Engineering и Avionics Engineering
+International Graduate School of Art & Design
+Animation, Fashion Design и Film & Theatre"
+108.0	Korea Nazarene University	Cheonan	$3,600 – $4,600 USD		"100 % освобождения при TOPIK 6 или TOEFL iBT 115 и выше;
+
+70 % при TOPIK 4–5 или низших языковых баллах;
+
+30 % при TOPIK 2 и ниже"	Заявки принимаются: примерно до октября–ноября предыдущего года	Заявки принимаются: примерно до май–июнь			TOEFL 530, IELTS 5.5								102		"Liberal Arts, 
+Teacher Training,
+ Natural Science, 
+Arts & Physical Fitness                                                                                                                                                                                    
+International Business Management (IBM) 
+International Finance & Real Estate  
+Business Administration  
+AI Software 
+Information and Communication Security  
+Multimedia Content 
+Visual Image Design  
+Nursing  
+Physical Therapy 
+Emergency Medical Service & Rescue 
+Emergency Medical Technology 
+Communication Disorders 
+Counseling Psychology 
+Child Studies 
+Contemporary Music 
+Piano 
+Orchestra 
+Taekwondo "
+109.0	Chongshin University	Dongjak-gu, Seoul	примерно $11,000 – $14,700 USD			с октября по декабрь	с мая по июль			6.0								103		"Theology / Divinity  
+
+Christian Studies 
+
+International Studies / Global Studies  
+
+English Language & Literature  "
+110.0	Sangji University	Wonju	$5,800 – $7,700 USD в год.		"Название стипендии	Условия	    Размер скидки / помощи
+International Student Scholarship B	 Иностранные студенты, новоприбывшие и продолжающие обучение	                                                      При поступлении — до 40% от стоимости обучения; для текущих студентов — дифференцированно по успеваемости 
+ 
+Scholarship A (exchange students)	Студенты по обмену из вузов-партнёров	                                                                                                                                             Частичная оплата обучения согласно соглашению 
+                                                                                                                                                                                                                                   Scholarship C (nomination)	Иностранные студенты, рекомендованные президентом партнёрского университета	                                                        Регистрация полностью освобождена, обучение — 60% скидка (при GPA ≥ 70 %) 
+ 
+Overseas Residents	Иностранные жители, GPA ≥ 80 % предыдущего семестра	25% скидка на обучение "													104		"B.Sc. in Life Science  
+B.Sc. in Forensic Science 
+Department of Business Administration
+Department of International Business
+Department of Real Estate Studies
+Department of Tourism Management / Hotel & Aviation Management
+College of Health Science
+Nursing
+Physical Therapy
+Clinical Pathology
+Occupational Therapy
+Food & Nutrition
+Healthcare Management
+Pharmaceutical Engineering"
+111.0	Seowon University	Cheongju	$5 700 – $7 200 USD			Сентябрь – ноябрь 2025				обычно IELTS ≥ 5.5 или TOEFL iBT ~ 71								105		"Global Hospitality Management
+
+Global International Business
+
+Global Engineering Studies (например, IT, Mechanical Design)"
+112.0	Baekseok University	Cheonan	~ 11 550 USD		"International Students Scholarship	
+Новые иностранные бакалавры/магистры	50% от обучения (каждый семестр)"	Подача заявок обычно проходит с сентября по ноябрь	Подача заявок обычно проходит с мая по июнь											106		"Business Administration
+International Business
+Computer Science / Information Technology
+Hospitlity and Tourism Management
+Early Childhood Education
+Social Welfare
+Nursing (частично на английском)
+English Language and Literature
+Media and Communication
+Music (вокал, инструментальное исполнение)
+Christian Studies / Theology"
+113.0	Andong National University	Andong	~ 3 000 – 4 300 USD		"International Students Scholarship
+Скидка на обучение для новых иностранных студентов, обычно покрывает от 30% до 50% стоимости обучения в зависимости от успеваемости и программы.
+Стипендия присуждается автоматически или по заявке при поступлении."	2025-06-30 00:00:00	2025-11-30 00:00:00			IELTS 5.5–6.0 или TOEFL iBT 70+								107		"Korean Language and Literature
+English Language and Literature
+History
+Economics
+Sociology
+Business Administration
+Computer Science and Engineering
+Mechanical Engineering
+Civil Engineering
+Biology
+Chemistry
+Education"
+114.0	Dongshin University	Naju	от $4,150 до $5,500 в год.		" Стипендия за знание английского языка (для бакалавров):
+
+40% скидка на обучение при IELTS 5.5 или эквиваленте.
+
+70% скидка при IELTS 7.0 или эквиваленте. 
+
+2. Стипендия за знание корейского языка (для бакалавров):
+
+30% скидка при TOPIK 2.
+
+100% скидка на первый семестр и 80% на последующие при TOPIK 6. "	с 9 мая по 16 мая 2025 года	с 16 мая по 16 июня 2025 года			IELTS 5.5 or TOEFL iBT 60 (varies by program)								108		"College of Humanities and Social Sciences:
+Korean Language and Literature
+English Language and Literature
+Psychology
+Social Welfare
+College of Business and Economics:
+Business Administration
+Economics
+Marketing
+College of Engineering:
+Computer Science and Engineering
+Electrical Engineering
+Mechanical Engineering
+College of Natural Sciences:
+Environmental Science
+Biotechnology
+College of Arts and Physical Education:
+Music
+Sports Science
+College of Health Sciences:
+Nursing
+Physical Therapy"
+115.0	Dongduk Women's University	Seoul	от $2,315 до $3,385		"GPA 4.0 и выше: 100% скидка на обучение (полное покрытие).
+
+GPA 3.5 – 3.99: 70% скидка.
+
+GPA 3.0 – 3.49: 50% скидка.
+
+GPA 2.5 – 2.99: 30% скидка."	с 9 мая по 16 мая 2025 года	с 30 мая по 13 июня 2025 года			IELTS 5.5 or equivalent is needed for programs taught in English.								109		"Korean Language and Literature
+English Language and Literature
+History
+Philosophy
+College of Social Sciences
+Social Welfare
+Psychology
+Sociology
+Child and Family Studies
+College of Business and Economics
+Business Administration
+Economics
+International Trade
+College of Natural Sciences
+Mathematics
+Computer Science
+College of Arts and Physical Education
+Music
+Fine Arts
+Physical Education
+College of Engineering
+Digital Media
+Food Science and Nutrition
+
+College of Health Sciences
+
+Nursing
+
+Occupational Therapy"
+116.0	Catholic Kwandong University	Gangneung	от $4,800 до $9,700		"TOPIK 3: 40% скидка на обучение.
+
+TOPIK 4: 60% скидка на обучение.
+
+TOPIK 5: 80% скидка на обучение.
+
+TOPIK 6: 100% скидка на обучение.
+
+Примечание: Скидки распространяются только на стоимость обучения и не включают вступительный взнос."	Early November to Late November		December to January										110		"Korean Language and Literature
+English Language and Literature
+Historу
+Social Welfare
+Psychology
+College of Business Administration
+Business Administration
+International Trade
+Accounting
+College of Engineering and IT
+Computer Science and Engineering
+Electrical Engineering
+Mechanical Engineering
+College of Health Sciences
+Nursing
+Physical Therapy
+Clinical Laboratory Science
+College of Natural Sciences
+Environmental Science
+Biotechnology"
+117.0	Eulji University	Seongnam City	~ $5,000–7,500 USD/year		TOPIK levels 4–6 may qualify for significant tuition reduction (50%–100% first semester) depending on university norms	September to November		May to June										111		"College of Nursing
+
+Department of Medicine (pre-med & graduate medical school)
+
+College of Health Sciences: Dentistry, emergency medicine, radiological science, biomedical engineering, physical therapy, cosmetic medicine
+
+College of Health Industry: Nutrition, environmental safety, medical information technology, marketing and management, early childhood education, mortuary science, addiction and social services
+
+Department of Liberal Arts for general education and support"
+118.0	Hanshin University	Osan City	$5,900 – $7,100 per year		"1. TOPIK-Based Scholarship (first semester only)
+TOPIK Level 6: 100% tuition waiver
+Level 5: ₩2.5 million waiver
+
+Level 4: ₩2.2 million waiver
+
+Level 3: ₩1.8 million waiver
+
+TOPIK Level 2 or below: ₩1 million waiver 
+
+2. GPA Scholarship (recurring support)
+GPA 4.5: 100% tuition waiver
+
+GPA above 4.0: ₩1.8 million support
+
+GPA above 3.5: ₩1.0 million support
+
+GPA above 3.0: ₩0.8 million support "	September through December	March through July											112		"College of Theology (e.g. Theology, Christian Education)
+
+College of Humanities (e.g. Korean & English Literature, History, Philosophy, Creative Writing, Philosophy, Digital/Visual Culture Contents)
+
+College of Korean‑Chinese Cultural Industries (Chinese Culture and Art Studies, IT Contents)
+
+College of Social Science (Economics, Sociology, International Relations, Advertising/PR, etc.)
+
+College of Human Service (Social Welfare, Rehabilitation, Psychology & Child Care, Adapted Physical Education)
+
+College of Global Cooperation (Business Administration, IT Business, Global Business, Chinese Studies, Japanese Studies, International Economics)
+
+College of Information Technology (Applied Statistics, Financial Mathematics, Computer Engineering, Information & Telecommunications)"
+119.0	Namseoul University	Cheonan	≈ $4,600–$5,800 USD/year		"TOPIK Level 5: 50% tuition waiver
+
+Level 4: 40% waiver
+
+Level 3: 30% waiver
+These discounts apply automatically with admission—no separate application required"	September to November	May to July			"Korean: TOPIK Level 3 or above (Level 4 for Nursing major)
+
+English (for programs in English tracks): IELTS ≥ 5.5 or TOEFL iBT ≥ 71 (Master’s may require TOEFL ≥ 80)"								113		"Engineering & Technology: Electronic Engineering, Computer Science, Information & Communication Engineering, Architecture, Industrial Engineering, Multimedia
+
+Business & Public Administration: Business Administration, International Trade, Marketing, Real Estate, Hotel & Tourism Management, Taxation
+
+Health & Welfare: Nursing, Physical Therapy, Clinical Pathology, Health Administration, Emergency Medical Technology, Dental Hygiene
+
+Humanities & Social Sciences: English, Japanese, Chinese, Social Welfare, Elderly Welfare, Child Welfare"
+120.0	Youngsan University	Yangsan City	~$3,800–5,000 USD		"TOPIK (Korean proficiency) based entry scholarship:
+
+TOPIK Level 4 or higher: 50% tuition waiver
+
+TOPIK Level 3: 30% waiver
+
+Alternatively: English track students may qualify with IELTS or TOEFL scores:
+
+IELTS 5.5 / TOEFL iBT 71: 30% waiver
+
+IELTS 6.0 / TOEFL iBT 76: 40% waiver
+
+IELTS 6.5 / TOEFL iBT 81: 50% waiver"	September to November	May to June			IELTS ≥ 5.5 or TOEFL iBT ≥ 71								114		"Hospitality & Tourism Management (Bachelor of Tourism / BHTM)
+
+Exhibition & Convention Tourism, Hotel, Global Tour Plan – part of Hotel & Tourism Management
+
+Korea Business, International Business Law – within Global Studies school
+
+Computer Software, AI/Computer Engineering, Cyber Security, Drone/Transportation Engineering – some engineering programs offer English‑media instruction
+
+Culinary Arts programs (Asian/Wester/Korean cuisine, Bakery & Beverages) also have English‑mediated tracks"
+121.0	Hankyong National University	Anseong	about $3,400 USD/year			January 23, 2025												115		"Bachelor of Engineering – This program is delivered entirely in English and is available to international students.
+
+Bachelor of IT – Offered in English, this program focuses on information technology and is also available to international students. 
+
+
+Bachelor of Veterinary Medicine – This program is taught in English and is available to international students.
+
+Bachelor of Medicine and Surgery (MBBS) – This program is delivered in English and is available to international students."
+122.0	Joongbu University (as of 2022)	Geumsan/Goyang	$1,420 USD-- $1,960 USD		"Scholarship for Academic Excellence: for students with a high Grade Point Average (GPA).
+
+Scholarship for Korean Language Proficiency: based on the level of TOPIK certification.
+
+Scholarship for English Language Proficiency: for students with TOEFL scores of 550 or equivalent international certificates."	24 January - 28 January												116		Only International Trade & Business
+123.0	Daejeon University	Daejeon	$2,600–$3,000 USD		"Scholarship for Academic Excellence:
+
+40% tuition fee waiver for students with a GPA of 4.00 and above (90 points and above).
+
+35% tuition fee waiver for GPA from 3.00 to 3.99 (80 to less than 90 points).
+
+30% tuition fee waiver for GPA below 3.00 (less than 80 points).
+
+
+Scholarship for Korean Language Proficiency (TOPIK):
+
+15% tuition fee waiver for students with TOPIK level 5 or higher.
+
+10% tuition fee waiver for TOPIK level 4."	прием осуществляется каждый сентябрь. Период подачи заявок: декабрь — февраль.												117		"Medicine  
+
+Natural Sciences  
+
+Engineering 
+
+Humanities and Social Sciences 
+
+Business Administration "
+124.0	Anyang University	Anyang	от $3,000 до $7,000 USD в год.															118		"Business Manager
+Mechanical Engineer
+Computer Programmer / Software Developer
+Electrical Engineer
+Nurse
+Teacher / Educator
+Social Worker
+Graphic Designer
+Marketing Specialist
+Interpreter / Translator
+Environmental Scientist
+Tourism Manager
+Human Resources Specialist
+Public Relations Officer
+Finance Analyst"
+125.0	Tongmyung University	Busan	≈ 2,976 USD за семестр		"Scholarship A: 50% tuition discount for students with TOPIK level 6 or equivalent scores: IELTS 8.0, TOEFL iBT 105, TEPS 800.
+
+Scholarship B: 40% tuition discount for students with TOPIK level 5 or equivalent scores: IELTS 7.0, TOEFL iBT 90, TEPS 700.
+
+Scholarship C: 30% tuition discount for students with TOPIK level 4 or equivalent scores: IELTS 6.0, TOEFL iBT 85, TEPS 650.
+
+Scholarship D: 20% tuition discount for students with TOPIK level 3 or equivalent scores: IELTS 5.5, TOEFL iBT 80, TEPS 600."													119		"Mechanical Engineer
+Electrical Engineer
+Civil Engineer
+Computer Scientist / Software Developer
+Graphic Designer
+Industrial Designer
+Business Analyst
+Marketing Specialist
+International Relations Officer
+Translator / Interpreter
+Environmental Scientist
+Social Worker
+Nurse
+
+Educator / Teacher
+
+Tourism Manager"
+126.0	Presbyterian University and Theological Seminary	Seoul	~16,800 USD															120		"Pastor
+Missionary
+Youth Ministry Leader
+Theology Professor
+Christian Educator
+Church Administrator
+Biblical Counselor
+Worship Leader
+Church Music Director
+Chaplain (Hospital / Military / School)
+Non-Profit Organization Worker
+Religious Studies Researcher
+Community Outreach Coordinator
+Interpreter / Translator for Religious Texts
+
+Christian Author or Speaker"
+127.0	Daegu Haany University	Gyeongsan	~$5,775–~$7,100		"TOPIK Level (or equivalent test)        Scholarship First Semester
+TOPIK 5 or above                                  100% tuition waiver
+TOPIK 4 or equivalent                           70% waiver
+TOPIK 3                                                    50% waiver
+TOPIK 2 or equivalent (TOEFL/IELTS/TEPS)        30% waiver
+Additionally, holders of TOPIK Level 6 receive a one-time grant of 1,500,000 KRW (~$1,260 USD); Level 5 holders get 1,000,000 KRW (~$840 USD).                                                                                                                                                                                                                     ✅ Scholarships for Continuing Semesters (Renewable)
+GPA Range	Tuition Waiver Starting Second Semester
+GPA ≥ 4.3	100% waiver
+GPA 4.0–4.3	80% waiver
+GPA 3.0–4.0	50% waiver
+GPA 2.5–3.0	40% waiver"	September to November	May to June											121		"College of Oriental Medicine
+Traditional Eastern Medicine
+Nursing 
+World Higher Education Database
+College of Health and Rehabilitation
+Offers disciplines such as:
+Physical Therapy
+Health Sciences
+Occupational Therapy
+Safety Engineering
+Rehabilitation and Therapy
+Sports Medicine
+Psychology
+Laboratory Techniques
+Environmental Management 
+World Higher Education Database
+College of Herbal Bio-industry
+Biomedical Engineering
+Biotechnology
+Pharmaceutical Engineering
+Food Science & Nutrition
+
+Cosmetology
+
+Botany
+
+Traditional Eastern Medicine Technologies"
+128.0	Sungkyul University	Anyang	$4,000–4,500 per year.		"1.        Admission Scholarship
+
+        •        TOPIK Level 5 or above: 50% tuition and enrollment fee waiver
+        •        TOPIK Level 4: 40% tuition and enrollment fee waiver
+        •        TOPIK Level 3: 30% tuition and enrollment fee waiver
+
+        2.        Academic Scholarship (for 2nd to 8th semester)
+
+        •        GPA 4.0 or above: 60% tuition waiver
+        •        GPA 3.5 or above: 50% tuition waiver
+        •        GPA 3.0 or above: 30% tuition waiver
+        •        GPA 2.8 or above: 20% tuition waiver
+
+        3.        Additional Benefit
+
+        •        Students who complete over 2 semesters (level 3 or 4) in Sungkyul University’s Korean language program receive a 50% discount on the enrollment fee."		с 2 декабря 2024 по 22 декабря 2024											122		"1.        Business Administration
+        2.        Computer Science
+        3.        English Language and Literature
+        4.        International Studies
+        5.        Social Welfare                 
+
+Division of Theology
+Korean Language & Literature
+English Language & Literature
+Japanese Language & Literature
+Chinese Language & Literature
+International Development Cooperation
+Social Welfare
+Public Administration
+Tourism Development
+Business Administration
+East Asian Studies & Logistics
+Industrial Management Engineering"
+129.0	Honam University	Gwangju	$2,900–4,100 USD/year		"TOPIK-Based Entrance Scholarships (First Semester Only)
+
+TOPIK Level	Tuition Discount
+Level 3	30%
+Level 4	50%
+Level 5	60%
+Level 6	70%
+
+Students who complete 6 months (>400 hrs) at Honam’s Korean Language Institute may qualify for enhanced scholarship tiers (e.g. TOPIK 3 → 60%). Additional 10% discount available for King Sejong Institute alumni."	с октября по декабрь	с апреля по июнь											123		"Korean Language and Literature
+English Language and Literature
+Japanese Language and Literature
+Chinese Language and Literature
+Law
+Journalism and Mass Communication
+Public Administration
+Social Welfare
+2. College of Business Administration
+Business Administration
+Hotel and Tourism Management
+International Business
+Economics
+Air Transport and Logistics
+Art Management
+3. College of Engineering
+Architecture
+Civil and Environmental Engineering
+Computer Engineering
+Information Technology and Software
+Telecommunications
+Landscape Architecture"
+130.0	Sungkonghoe University	Seoul	$3,000 USD		"First Semester Scholarships
+International students may receive scholarships based on their English proficiency:
+
+IELTS 5.5: 40% tuition fee waiver
+
+IELTS 6.0 or higher: Full tuition fee waiver (some selections) 
+
+
+Subsequent Semester Scholarships
+From the second semester onward, scholarships are awarded based on academic performance:
+skhu.ac.kr
+
+GPA 4.3 or higher: Full tuition fee waiver
+
+GPA 4.0 or higher: 70% tuition fee waiver
+
+GPA 3.8 or higher: 50% tuition fee waiver
+
+GPA 3.5 or higher: 20% tuition fee waiver
+
+GPA 3.0 or higher: 10% tuition fee waiver"	September to November	May to June											124		"Business & Economics
+Business Manager
+Marketing Specialist
+International Trade Coordinator
+Finance Analyst
+                                                                                                                                                        Computer Science & IT
+Software Developer
+Data Engineer / Data Analyst
+Artificial Intelligence (AI) Engineer
+IT Consultant
+Systems Administrator"
+131.0	Sehan University																	125		
+132.0	Yong-In University	Yongin-si	 ≈ $6,400- $6,520		"TOPIK Grade 3                   50% of Tuition Fee
+Above TOPIK Grade 4        60% of Tuition Fee                                                                                                                                                                      Those who have completed more than 20 weeks of our Korean Language Curriculum and have been recommended by the head of the relevant department (Institute of Foreign Affairs and Education)        50% of Tuition Fee                                                                                       Grade of The last semester                                                                                                                                                                                                        Above 4.0        50% of Tuition Fee
+Above 3.5        40% of Tuition Fee
+Above 3.0        30% of Tuition Fee
+Above 2.5        20% of Tuition Fee                                                                                                                                                                                                       This scholarship shall not be applicable to admission fee.
+
+"													126		There are no undergraduate programs taught entirely in English. There are graduate and postgraduate programs.
+133.0	Seoul National University of Education																	127		No programs entirely in English for undergraduate studies. Готовит учителей исключительно для корейских школ. Вся учебная программа, методики и практика ориентированы на корейский язык и национальные образовательные стандарты. Знание корейского обязательно. 
+134.0	Daegu National University of Education																	128		No programs entirely in English for undergraduate studies. Специализированный педагогический Региональный педагогический вуз с фокусом на подготовке кадров для системы образования города Тэгу и провинции Кёнсан-пукто.
+135.0	Kyungdong University	Seoul								Minimum IELTS 5.5 or other equivalent internationally certified level of English proficiency.								129		1 Global Business Administration.2 Digital Art & Design.3 Beauty Industry Management
+136.0	Pyeongtaek University																	130		No programs entirely in English for undergraduate studies. Локальный частный университет. Как и многие региональные университеты, его главная задача  предоставление образования местным студентам. Не является интернациональным и не инвестирует в англоязычные программы.
+137.0	Howon University		нет															131		No programs entirely in English for undergraduate studies. 
+138.0	Uiduk University		нет															132		No programs entirely in English for undergraduate studies. Локальный ВУЗ его миссия  развитие региона, а не привлечение международных студентов.
+139.0	Mokpo National Maritime University		нет															133		No programs entirely in English for undergraduate studies. Готовит капитанов, морских инженеров и специалистов порта для корейской и международной морской отрасли. Несмотря на международный характер сферы, программа аккредитована по корейским стандартам и требует знания корейского языка для работы в местных компаниях и сдачи экзаменов.
+140.0	Gyeongin National University of Education		нет															134		No programs entirely in English for undergraduate studies. Готовит учителей для школ столичного региона (Сеул и Инчхон). Как и все вузы этой категории,обучение только на корейском языке.
+141.0	Kyungil University		~3 744 USD		"•        Admission Scholarship A — for top scorers in each college.
+        •        Admission Scholarship B — for students with TOPIK Level 6.
+        •        Admission Scholarship C — for students with TOPIK Level 5.
+        •        Admission Scholarship D — recommended by the dean of affiliated Korean Language Institutes.
+        •        Admission Scholarship E — for students in the top 50% and completed over 4 semesters at ILE.
+        •        Admission Scholarship F — for Korean Department students in the top 50%.
+        •        Admission Scholarship G — for engineering college students in the top 50%.
+        •        Admission Scholarship H — for students in the College of International Studies in the top 50%.
+        •        Academic Encouragement Scholarship — for students with a GPA of 3.0 or higher.
+        •        TOPIK Encouragement Scholarship — for students with GPA 2.0+ and TOPIK Level 3+.
+        •        Kyungil Sibling Scholarship — for students with siblings enrolled at the university.
+        •        Kyungil Alumni Scholarship — for students whose parents are university graduates."	21–25 апреля 2025 года	9–13 июня 2025 года											135		"Department of English Language
+Mechanical Engineering
+Geoinformatics Engineering"
+142.0	Chodang University		8 500–10 300 USD		"•        Social scholarships: labor, family (10% discount), Chodang, service — amounts not fixed.
+        •        Special scholarships: physical education, government employees (4 years), military, contribution, exam, Chodang Talented (50,000–600,000 won).
+        •        Global scholarships: exchange, overseas study, overseas service.
+        •        Freshman scholarships: by CSAT (S—4 years, A—3 years, B—2 years), Chodang Leader (1 year + language support), Baekje (1 million won), Tulip Tree (50% discount), dormitory (free utilities)."	1 марта  31 мая 2025 года 	1 сентября 31 ноября 2025 года 											136		"International Relations
+Aviation and Service Management"
+143.0	Seoul Theological University		нет английских программ															137		
+144.0	Singyeongju University																	138		
+145.0	Korea National Sport University		~ 3 886 USD		"1.        KNSU Scholarships
+        •        Merit-based & Need-based: Partial or full tuition support for outstanding academic or athletic performance.
+        •        Athletic Scholarships: For students with high-level sports achievements.
+        2.        External Grant – $3,000 USD
+        •        Available for undergraduate, master’s, and Ph.D. students at KNSU (partial tuition support).
+        3.        GKS (Global Korea Scholarship)
+        •        Government-funded scholarship covering full tuition, living expenses, airfare, and Korean language course (for bachelor’s, master’s, and Ph.D.).
+        4.        Dream Together Master’s Program (not at KNSU)
+        •        Fully funded master’s in sport management at Seoul National University (in English)."	сентябрь – ноябрь (пред. года)	май – июнь (текущего года)											139		Sport Management
+146.0	Hansei University		8 000 – 10 300 USD		"1.        University Scholarship (Admission Scholarship):
+        •        Full or partial tuition waiver.
+        •        Apply when you submit your admission documents.
+        2.        For Exchange Students:
+        •        Full tuition and fees waiver.
+        3.        Korean Government Scholarship (GKS/KGSP):
+        •        Covers full tuition, monthly stipend, airfare, and insurance.
+        •        You can apply through the university or the Korean embassy.
+        4.        Additional Grants:
+        •        Partial scholarships from private funds or corporations (around $3,000+)."	номинация до 3 мая, заявка до 17 мая.	номинация до 7 ноября, заявка до 21 ноября.											140		"B.Tech in Robotics Engineering
+B.Sc in Nursing"
+147.0	Busan National University of Education		От 4 052 423 до 6 263 959 KRW в год		"1.	Admission Scholarship
+	•	Based on TOPIK scores:
+	•	TOPIK Level 6: 100% tuition waiver for the first semester
+	•	TOPIK Level 5: 100% tuition waiver for following semesters
+	•	TOPIK Level 4: Partial tuition waiver
+	2.	Academic Scholarship
+	•	For enrolled students with good GPA and language skills (TOPIK 4+ or TOEFL/IELTS)
+	•	Tuition waiver from 30% to 100% depending on performance
+	3.	TOPIK Progress Scholarship
+	•	KRW 400,000 awarded each time a student improves their TOPIK level (up to 3 times)
+	4.	Global Korea Scholarship (GKS)
+	•	Full tuition, monthly stipend, airfare, and insurance funded by the Korean government
+"		April 7, – April 18, 2025 											141		"Global Studies
+Global Open Major 
+Korean and East Asian Studies "
+148.0	Gangseo University		≈ USD 3,240		"•	Global Excellence Scholarship – for top academic students, up to 100% tuition
+	•	International Merit Scholarship – based on grades and leadership, partial tuition
+	•	Korean Language Scholarship – for students with high TOPIK level, tuition discount
+	•	Cultural Exchange Scholarship – for active cultural participation
+	•	Need-Based Aid – for students with financial difficulties
+	•	Research Assistantship – for graduate students, includes work + stipend"	March 31 – June 11, 2025	April 3 – April 14, 2025											142		Global Business Management 
+149.0	Kwangju Women's University		Нет английских программ															143		
+150.0	Kyungwoon University		от $6,000 до $10,000 в год .		"Entrance Scholarships (for new students):
+	•	TOPIK Level 5 or higher: 100% tuition waiver
+	•	TOPIK Level 4: 70% tuition waiver
+	•	TOPIK Level 3 or IELTS 6.5+: 50% tuition waiver
+	•	IELTS 5.5+ or other recommendations: 20% tuition waiver
+
+Academic Scholarships (for continuing students):
+	•	Maintain GPA 3.5+ and language level:
+	•	TOPIK 5: 100% tuition waiver
+	•	TOPIK 4: 70% tuition waiver
+	•	TOPIK 3: 50% tuition waiver
+	•	Without TOPIK but GPA 3.5+: 30% tuition waiver"	с 1 сентября по 30 ноября предыдущего года.	с 1 мая по 31 июля того же года.											144		"•	Business Administration
+	•	Computer Science"
+151.0	Nambu University		11 920 000 корейских вон в год		"•	Up to 100% Tuition Fee Waiver based on English proficiency and academic performance.
+	•	English Proficiency Requirements:
+	•	100% waiver: IELTS 7.0 / TOEFL iBT 100 / TOEIC 900 or TOPIK level 6.
+	•	80% waiver: IELTS 6.5 / TOEFL iBT 90 / TOEIC 850 or TOPIK level 5.
+	•	60% waiver: IELTS 5.5 / TOEFL iBT 71 / TOEIC 700 or TOPIK level 4.
+	•	Lower waivers available for lower language levels."	с 1 по 30 апреля.	с 1 по 31 октября.											145		"B.Eng in Electrical Engineering
+B.Sc in Radiological Science"
+152.0	Korea Baptist Theological University		1 200–8 000 USD		"1.        International Student Scholarship
+→ Covers up to 40% of tuition based on academic performance.
+        2.        Merit-Based Scholarship
+→ For students with high grades – partial or full tuition coverage.
+        3.        Need-Based Scholarship
+→ For students with financial difficulty – partial tuition support.
+        4.        Missionary Family Scholarship
+→ For children of missionaries – tuition discount.
+        5.        Ministry & Leadership Scholarships
+→ For active church members or leaders – partial support."		1 марта – 30 апреля											146		"•        Christian Education
+        •        Church Music / Piano
+        •        Counseling Psychology
+        •        Early Childhood Education
+        •        English Department / Division
+        •        Social Welfare
+        •        Theology"
+153.0	Halla University		Нет английских программ															147		
+154.0	Gongju National University of Education																	148		No programs entirely in English for undergraduate studies. Подготовка высококлассных учителей исключительно для корейской системы образования.
+155.0	Cheongju National University of Education																	149		No programs entirely in English for undergraduate studies. Подготовка высококлассных учителей исключительно для корейской системы образования.
+156.0	Kaya University																	150		No programs entirely in English for undergraduate studies.  - Региональный частный университет.
+157.0	Hyupsung University																	151		No programs entirely in English for undergraduate studies.  - Региональный частный университет.
+158.0	Far East University, Korea																	152		No programs entirely in English for undergraduate studies.  - Региональный частный университет.
+159.0	Chinju National University of Education																	153		. No programs entirely in English for undergraduate studies. Подготовка высококлассных учителей исключительно для корейской системы образования.
+160.0	Catholic University of Pusan																	154		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+161.0	Chugye University for the Arts																	155		No programs entirely in English for undergraduate studies. Университет Искусств (глубоко связанный с корейской культурой) Знаение клоейского обязательно 
+162.0	Gimcheon University																	156		No programs entirely in English for undergraduate studies. 
+163.0	Gwangju National University of Education																	157		. No programs entirely in English for undergraduate studies. Подготовка высококлассных учителей исключительно для корейской системы образования.
+164.0	Jungwon University																	158		No programs entirely in English for undergraduate studies. 
+165.0	Geumgang University																	159		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+166.0	Busan Women's College																	160		No programs entirely in English for undergraduate studies. 
+167.0	Kkottongnae University																	161		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+168.0	U1 University																	162		
+169.0	Chuncheon National University of Education																	163		. No programs entirely in English for undergraduate studies. Подготовка высококлассных учителей исключительно для корейской системы образования.
+170.0	Korean Bible University		нет															164		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+171.0	Seoul Jangsin University																	165		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+172.0	Luther University																	166		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+173.0	Yewon Arts University																	167		No programs entirely in English for undergraduate studies. Университет Искусств (глубоко связанный с корейской культурой) Знаение клоейского обязательно 
+174.0	Hwasung Medi Science University																	168		 No programs entirely in English for undergraduate studies. Специализированный колледж в сфере медицины.
+175.0	Incheon Catholic University		нет															169		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+176.0	Catholic University of Daejeon																	170		No programs entirely in English for undergraduate studies.Университет готовит пасторов, священников, теологов и социальных работников для обслуживания конкретных корейскоязычных общин внутри страны. Их выпускники будут читать проповеди, проводить службы и заниматься counselling на корейском языке.
+177.0	Chungwoon University																	171		No programs entirely in English for undergraduate studies.  - Региональный частный университет.
+178.0	Daegu Arts University																	172		No programs entirely in English for undergraduate studies. Университет Искусств (глубоко связанный с корейской культурой) Знаение корейского обязательно 
+179.0	Jeonju National University of Education		"•	Tuition per semester: About 3,000,000 KRW (~2,200 USD)
+	•	Total yearly tuition: About 6,000,000 KRW (~4,400 USD)"		"	•	TOPIK Scholarship
+Award: 1,000,000 KRW
+Eligibility: TOPIK level 4 or higher
+Application deadline: Within one week after TOPIK results announcement
+	•	Sibling Scholarship
+Award: 40% tuition discount
+Eligibility: For siblings enrolled simultaneously with GPA 2.5+
+	•	Boram Scholarship
+Award: Based on academic excellence
+Eligibility: Outstanding academic achievement
+	•	Academic Excellence Scholarships
+Award: Various discounts/scholarships based on GPA
+Eligibility: Minimum GPA 2.5, completion of 12+ credits"	October 30, 2024, 	"To be announced around February 2025
+"											173		"1.	Division of International Studies
+	2.	Division of Business Administration
+	3.	Division of Hotel and Tourism Management
+	4.	Division of Media and Visual Arts
+	5.	Division of Computer Engineering
+	6.	Department of Food and Nutrition
+	7.	Department of Environmental Engineering
+	8.	Division of Design"
+180.0	Busan Presbyterian University		 нет информации															174		
+181.0	Calvin University		нет 															175		
+182.0	Seoul Christian University		Нет сайта 															176		
+183.0	Youngnam Theological University and Seminary		Нет сайта 															177		
+184.0	Daeshin University		9,090,000 до 10,810,000 корейских вон (KRW)		"1.	Academic Excellence Scholarship
+	•	Awarded to students with strong academic performance.
+	•	Based on GPA:
+	•	GPA 3.5 or higher: 50% tuition waiver
+	•	GPA 3.0–3.49: 33% tuition waiver
+	•	GPA 2.5–2.99: 25% tuition waiver
+	•	Conditions may vary; contact the university for details.
+	2.	Attendance & Participation Scholarship
+	•	Given to students with excellent attendance and active class participation.
+	•	Up to 50% tuition waiver."	"•	Весенний приём: Занятия начинаются в марте; заявки принимаются с сентября по ноябрь предыдущего года.
+	"	"•	Осенний приём: Занятия начинаются в сентябре; заявки принимаются с мая по июнь того же года."											178		"International Business Administration
+Mobile System Engineering
+Bio and Material Engineering
+Korean Studies"
+185.0	Gwangju Catholic University		нет английский программ 															179		
+186.0	Jeju International University		"Social Sciences 2,844,000 Engineering 3,096,000
+Art and Sports 3,096,000"		"•        Merit-Based Scholarships: Up to 100% tuition waiver for high-achieving students.
+        •        Need-Based Aid: 20–100% tuition support for low-income families, students with disabilities, etc.
+        •        Language & Certification Awards: 200,000–1,000,000 KRW for TOEIC, JLPT, HSK scores, or professional certificates.
+        •        Regional Subsidies: Support for students from rural areas (e.g., interest subsidies on student loans)."	2024.04.22 ~ 2024.04.25	2024.06.03 ~ 2024.06.07											180		"Police Administration
+ Security
+Counseling and
+Welfare Speech Therapy
+Child Development and Education
+Hotel management
+ Aviation
+Management*
+ Entrepreneurship
+Management
+Fire and Disaster
+Prevention
+ Data Security
+Engineering•
+Architecture
+Civil Engineering
+⁠Electrical Engineering
+ Mechanical and
+Automotive
+ELeisure Sports
+Studies
+Sports Rehabilitation
+Performing artse"
+187.0	Mokpo Catholic University																			
+188.0	Kwangshin University																			
+189.0	Jesus University																			

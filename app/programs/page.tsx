@@ -18,8 +18,8 @@ interface Program {
   country: string
   city: string
   format: string
-  startDate: string
-  endDate: string
+  startDate?: string
+  endDate?: string
   deadline: string
   cost?: number
   website?: string
@@ -119,8 +119,8 @@ export default function ProgramsPage() {
           <button
             onClick={() => setTypeFilter(null)}
             className={`px-4 py-2 rounded-full transition-colors ${!typeFilter
-                ? 'bg-primary text-primary-foreground'
-                : 'bg-muted hover:bg-muted/80'
+              ? 'bg-primary text-primary-foreground'
+              : 'bg-muted hover:bg-muted/80'
               }`}
           >
             {t.programs.all}
@@ -130,8 +130,8 @@ export default function ProgramsPage() {
               key={type.value}
               onClick={() => setTypeFilter(type.value)}
               className={`px-4 py-2 rounded-full transition-colors ${typeFilter === type.value
-                  ? 'bg-primary text-primary-foreground'
-                  : 'bg-muted hover:bg-muted/80'
+                ? 'bg-primary text-primary-foreground'
+                : 'bg-muted hover:bg-muted/80'
                 }`}
             >
               {type.label}
@@ -184,11 +184,13 @@ export default function ProgramsPage() {
 
                     {/* Dates */}
                     <div className="space-y-2 text-sm">
-                      <div className="flex items-center gap-2">
-                        <Calendar className="h-4 w-4 text-muted-foreground" />
-                        <span className="text-muted-foreground">{t.programs.program}:</span>
-                        <span>{formatDate(program.startDate)} - {formatDate(program.endDate)}</span>
-                      </div>
+                      {program.startDate && program.endDate && (
+                        <div className="flex items-center gap-2">
+                          <Calendar className="h-4 w-4 text-muted-foreground" />
+                          <span className="text-muted-foreground">{t.programs.program}:</span>
+                          <span>{formatDate(program.startDate)} - {formatDate(program.endDate)}</span>
+                        </div>
+                      )}
                       <div className="flex items-center gap-2">
                         <Calendar className="h-4 w-4 text-muted-foreground" />
                         <span className="text-muted-foreground">{t.programs.deadline}:</span>

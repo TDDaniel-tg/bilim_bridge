@@ -9,7 +9,7 @@ export async function GET() {
         // Return default if no config exists, or the found config
         if (!config) {
             return NextResponse.json({
-                siteName: 'Bilim Bridge',
+                siteName: 'Lumus',
                 supportEmail: 'support@bilimbridge.com',
                 phoneNumber: '+996 XXX XXX XXX',
                 address: 'Bishkek, Kyrgyzstan',

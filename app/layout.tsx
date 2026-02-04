@@ -11,7 +11,7 @@ import { prisma } from "@/lib/db"
 const inter = Inter({ subsets: ["latin", "cyrillic"] })
 
 export const metadata: Metadata = {
-  title: "Bilim Bridge - Find Your Dream University",
+  title: "Lumus - Find Your Dream University",
   description: "Platform for international students to find and apply to universities worldwide. AI-powered recommendations, fit scores, and comprehensive university database.",
   keywords: ["university", "college", "international students", "admissions", "scholarships", "study abroad"],
 }
@@ -24,8 +24,8 @@ export default async function RootLayout({
 }>) {
   // Fetch site settings
   const siteConfig = await prisma.siteConfig.findFirst()
-  const siteName = siteConfig?.siteName || "Bilim Bridge"
-  const supportEmail = siteConfig?.supportEmail || "info@bilimbridge.com"
+  const siteName = siteConfig?.siteName || "Lumus"
+  const supportEmail = siteConfig?.supportEmail || "info@lumus.com"
   const phoneNumber = siteConfig?.phoneNumber || "+996 XXX XXX XXX"
   const address = siteConfig?.address || "Bishkek, Kyrgyzstan"
 
